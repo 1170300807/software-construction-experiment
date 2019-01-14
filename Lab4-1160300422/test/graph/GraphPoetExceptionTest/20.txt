@@ -1,0 +1,18 @@
+GraphType = "GraphPoet"
+GraphName = "GraphPoetTest"
+
+VertexType = "Word"
+Vertex = <"v1", "Word">
+Vertex = <"v2", "Word">
+Vertex = <"v3", "Word">
+Vertex = <"v4", "Word">
+Vertex = <"v5", "Word">
+
+EdgeType = "WordNeighborhoodEdge"
+Edge = <"E1", "WordNeighborhoodEdge", "1", "v1", "v2", "Yes">
+Edge = <"E2", "WordNeighborhoodEdge", "1", "v2", "v3", "Yes">
+Edge = <"E3", "WordNeighborhoodEdge", "1", "v3", "v4", "Yes">
+Edge = <"E4", "WordNeighborhoodEdge", "1", "v4", "v5", "Yes">
+Edge = <"E5", "WordNeighborhoodEdge", "1", "v5", "v1", "Yes">
+
+HyperEdge = 

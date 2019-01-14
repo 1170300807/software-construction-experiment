@@ -1,0 +1,14 @@
+GraphType = "SocialNetwork"
+GraphName = "SocialNetworkTest"
+
+VertexType = "Person"
+Vertex = <"Ren", "Person", <"M", "20">>
+Vertex = <"Li", "Person", <"FF", "19">>
+Vertex = <"An", "Person", <"F", "21">>
+
+EdgeType = "CommentTie", "ForwardTie", "FriendTie"
+Edge = <"E1", "CommentTie", "1", "Li", "Ren", "Yes">
+Edge = <"E2", "FriendTie", "0.5", "Li", "An", "Yes">
+Edge = <"E3", "ForwardTie", "0.5", "Ren", "An", "Yes">
+Edge = <"E4", "ForwardTie", "0.6", "Ren", "An", "Yes">
+Edge = <"E1", "FriendTie", "0.6", "Ren", "An", "Yes">

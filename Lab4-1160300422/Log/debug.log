@@ -1,0 +1,1892 @@
+2018-05-20 11:49:07 [main:0] - [INFO]  
+ <"Ren", "Person", <"M", "21">> has been added
+2018-05-20 11:49:07 [main:1] - [INFO]  
+ <"Li", "Person", <"F", "20">> has been added
+2018-05-20 11:49:07 [main:2] - [INFO]  
+ <"E1", "CommentTie", "1.0", "Li", "Ren", Yes> has been added
+2018-05-20 11:49:07 [main:2] - [INFO]  
+ <"An", "Person", <"F", "21">> has been added
+2018-05-20 11:49:07 [main:2] - [INFO]  
+ <"E2", "FriendTie", "0.5", "Li", "An", Yes> has been added
+2018-05-20 11:49:07 [main:3] - [INFO]  
+ <"E3", "ForwardTie", "0.5", "Ren", "An", Yes> has been added
+2018-05-20 11:49:07 [main:3] - [INFO]  
+ <"E4", "CommentTie", "0.6", "Li", "An", Yes> has been added
+2018-05-20 11:49:08 [main:26] - [INFO]  
+ <"v1", "Computer", <"192.168.88.106">> has been added
+2018-05-20 11:49:08 [main:27] - [INFO]  
+ <"v2", "Server", <"192.168.199.1">> has been added
+2018-05-20 11:49:08 [main:27] - [INFO]  
+ <"e1", "NetworkConnection", "100.0", "v1,v2", No> has been added
+2018-05-20 11:49:08 [main:27] - [INFO]  
+ <"v3", "Router", <"192.168.199.52">> has been added
+2018-05-20 11:49:08 [main:27] - [INFO]  
+ <"e2", "NetworkConnection", "50.0", "v2,v3", No> has been added
+2018-05-20 11:49:08 [main:27] - [INFO]  
+ <"e3", "NetworkConnection", "10.0", "v1,v3", No> has been added
+2018-05-20 11:49:08 [main:28] - [INFO]  
+ <"v4", "Router", <"192.168.199.9">> has been added
+2018-05-20 11:49:08 [main:28] - [INFO]  
+ <"e4", "NetworkConnection", "100.0", "v4,v3", No> has been added
+2018-05-20 11:49:08 [main:64] - [INFO]  
+ <"Ren", "Person", <"M", "21">> has been added
+2018-05-20 11:49:08 [main:65] - [INFO]  
+ <"Li", "Person", <"F", "20">> has been added
+2018-05-20 11:49:08 [main:65] - [INFO]  
+ <"E1", "CommentTie", "1.0", "Li", "Ren", Yes> has been added
+2018-05-20 11:49:08 [main:65] - [INFO]  
+ <"An", "Person", <"F", "21">> has been added
+2018-05-20 11:49:08 [main:65] - [INFO]  
+ <"E2", "FriendTie", "0.5", "Li", "An", Yes> has been added
+2018-05-20 11:49:08 [main:66] - [INFO]  
+ <"E3", "ForwardTie", "0.5", "Ren", "An", Yes> has been added
+2018-05-20 11:49:08 [main:66] - [INFO]  
+ <"E4", "CommentTie", "0.6", "Li", "An", Yes> has been added
+2018-05-20 11:49:08 [main:70] - [INFO]  
+ <"v1", "Computer", <"192.168.88.106">> has been added
+2018-05-20 11:49:08 [main:71] - [INFO]  
+ <"v2", "Server", <"192.168.199.1">> has been added
+2018-05-20 11:49:08 [main:71] - [INFO]  
+ <"e1", "NetworkConnection", "100.0", "v1,v2", No> has been added
+2018-05-20 11:49:08 [main:71] - [INFO]  
+ <"v3", "Router", <"192.168.199.52">> has been added
+2018-05-20 11:49:08 [main:71] - [INFO]  
+ <"e2", "NetworkConnection", "50.0", "v2,v3", No> has been added
+2018-05-20 11:49:08 [main:71] - [INFO]  
+ <"e3", "NetworkConnection", "10.0", "v1,v3", No> has been added
+2018-05-20 11:49:08 [main:71] - [INFO]  
+ <"v4", "Router", <"192.168.199.9">> has been added
+2018-05-20 11:49:08 [main:72] - [INFO]  
+ <"e4", "NetworkConnection", "100.0", "v4,v3", No> has been added
+2018-05-20 11:49:08 [main:72] - [INFO]  
+ <"e5", "NetworkConnection", "50.0", "v1,v4", No> has been added
+2018-05-20 11:49:08 [main:72] - [INFO]  
+ <"e6", "NetworkConnection", "200.0", "v4,v2", No> has been added
+2018-05-20 11:49:08 [main:73] - [INFO]  
+ <"v5", "Router", <"192.168.199.8">> has been added
+2018-05-20 11:49:08 [main:73] - [INFO]  
+ <"e7", "NetworkConnection", "20.0", "v1,v5", No> has been added
+2018-05-20 11:49:08 [main:73] - [INFO]  
+ <"e8", "NetworkConnection", "20.0", "v4,v5", No> has been added
+2018-05-20 11:49:08 [main:140] - [INFO]  
+ <"v1", "Computer", <"192.168.88.106">> has been added
+2018-05-20 11:49:08 [main:140] - [INFO]  
+ <"v2", "Server", <"192.168.199.1">> has been added
+2018-05-20 11:49:08 [main:141] - [INFO]  
+ <"e1", "NetworkConnection", "100.0", "v1,v2", No> has been added
+2018-05-20 11:49:08 [main:141] - [INFO]  
+ <"v3", "Router", <"192.168.199.52">> has been added
+2018-05-20 11:49:08 [main:141] - [INFO]  
+ <"e2", "NetworkConnection", "50.0", "v2,v3", No> has been added
+2018-05-20 11:49:08 [main:141] - [INFO]  
+ <"e3", "NetworkConnection", "10.0", "v1,v3", No> has been added
+2018-05-20 11:49:08 [main:141] - [INFO]  
+ <"v4", "Router", <"192.168.199.9">> has been added
+2018-05-20 11:49:08 [main:141] - [INFO]  
+ <"e4", "NetworkConnection", "100.0", "v4,v3", No> has been added
+2018-05-20 11:49:08 [main:143] - [INFO]  
+ <"v1", "Computer", <"192.168.88.106">> has been added
+2018-05-20 11:49:08 [main:143] - [INFO]  
+ <"v2", "Server", <"192.168.199.1">> has been added
+2018-05-20 11:49:08 [main:143] - [INFO]  
+ <"e1", "NetworkConnection", "100.0", "v1,v2", No> has been added
+2018-05-20 11:49:08 [main:143] - [INFO]  
+ <"v3", "Router", <"192.168.199.52">> has been added
+2018-05-20 11:49:08 [main:143] - [INFO]  
+ <"e2", "NetworkConnection", "50.0", "v2,v3", No> has been added
+2018-05-20 11:49:08 [main:144] - [INFO]  
+ <"e3", "NetworkConnection", "10.0", "v1,v3", No> has been added
+2018-05-20 11:49:08 [main:144] - [INFO]  
+ <"v4", "Router", <"192.168.199.9">> has been added
+2018-05-20 11:49:08 [main:144] - [INFO]  
+ <"e4", "NetworkConnection", "100.0", "v4,v3", No> has been added
+2018-05-20 11:49:08 [main:168] - [INFO]  
+ <"e5", "NetworkConnection", "50.0", "v1,v4", No> has been added
+2018-05-20 11:49:08 [main:175] - [INFO]  
+ <"e6", "NetworkConnection", "200.0", "v4,v2", No> has been added
+2018-05-20 11:49:08 [main:175] - [INFO]  
+ <"v5", "Router", <"192.168.199.8">> has been added
+2018-05-20 11:49:08 [main:175] - [INFO]  
+ <"e7", "NetworkConnection", "20.0", "v1,v5", No> has been added
+2018-05-20 11:49:08 [main:175] - [INFO]  
+ <"e8", "NetworkConnection", "20.0", "v4,v5", No> has been added
+2018-05-20 11:49:08 [main:233] - [ERROR]  
+ /Graph = "NetworkTopology"/It is an invalid commander
+2018-05-20 11:49:08 [main:239] - [ERROR]  
+ /GraphType = "GraphPoet"/It is an invalid commander
+2018-05-20 11:49:08 [main:240] - [ERROR]  
+ /GraphType = "NetworkTopology>/It is an invalid commander
+2018-05-20 11:49:08 [main:242] - [ERROR]  
+ /GraphName = "NetworkTopologyTest?"/NetworkTopologyTest? is an invalid label
+2018-05-20 11:49:08 [main:250] - [ERROR]  
+ /GraphName = "NetworkTopologyTest"?/It is an invalid commander
+2018-05-20 11:49:08 [main:254] - [ERROR]  
+ /VertexType = "Computer", "Router", "Server", "Person"/Person is an invalid vertex type
+2018-05-20 11:49:08 [main:261] - [ERROR]  
+ /VertexType = "Computer", "Router", "Server"./It is an invalid commander
+2018-05-20 11:49:08 [main:268] - [ERROR]  
+ /Vertex = <"v1,", "Computer", <"192.168.88.106">>/v1, is an invalid label
+2018-05-20 11:49:08 [main:280] - [ERROR]  
+ /Vertex = <"v1", "Word", <"192.168.88.106">>/Word is an invalid vertex type in this graph
+2018-05-20 11:49:08 [main:282] - [ERROR]  
+ /Vertex = <"v1", "Computer", <"192.168.88.106", "mine">>/the number of attributes is wrong
+2018-05-20 11:49:08 [main:285] - [ERROR]  
+ /Vertex = <"v1", "Computer", <"192.168.88.1066">>/192.168.88.1066 is an invalid attribute
+2018-05-20 11:49:08 [main:286] - [ERROR]  
+ /Vertex = <"v1", "Computer", <"192.168.88">>/192.168.88 is an invalid attribute
+2018-05-20 11:49:08 [main:288] - [ERROR]  
+ /Vertex = <"v1", "Computer", <"192.168.88.-066">>/192.168.88.-066 is an invalid attribute
+2018-05-20 11:49:08 [main:291] - [ERROR]  
+ /Vertex = <"v1", "Computer", <"192.168.88.one">>/192.168.88.one is an invalid attribute
+2018-05-20 11:49:08 [main:299] - [INFO]  
+ <"v1", "Computer", <"192.168.88.106">> has been added
+2018-05-20 11:49:08 [main:299] - [INFO]  
+ <"v2", "Server", <"192.168.199.1">> has been added
+2018-05-20 11:49:08 [main:299] - [INFO]  
+ <"v3", "Router", <"192.168.199.52">> has been added
+2018-05-20 11:49:08 [main:299] - [ERROR]  
+ /Vertex = <"v4", "Router", <"192.168.199.9">>>/It is an invalid commander
+2018-05-20 11:49:08 [main:302] - [INFO]  
+ <"v1", "Computer", <"192.168.88.106">> has been added
+2018-05-20 11:49:08 [main:302] - [INFO]  
+ <"v2", "Server", <"192.168.199.1">> has been added
+2018-05-20 11:49:08 [main:302] - [INFO]  
+ <"v3", "Router", <"192.168.199.52">> has been added
+2018-05-20 11:49:08 [main:303] - [INFO]  
+ <"v4", "Router", <"192.168.199.9">> has been added
+2018-05-20 11:49:08 [main:303] - [ERROR]  
+ /EdgeType = "WordNeighborhoodEdge"/WordNeighborhoodEdge is an invalid edge type
+2018-05-20 11:49:08 [main:309] - [INFO]  
+ <"v1", "Computer", <"192.168.88.106">> has been added
+2018-05-20 11:49:08 [main:310] - [INFO]  
+ <"v2", "Server", <"192.168.199.1">> has been added
+2018-05-20 11:49:08 [main:310] - [INFO]  
+ <"v3", "Router", <"192.168.199.52">> has been added
+2018-05-20 11:49:08 [main:310] - [INFO]  
+ <"v4", "Router", <"192.168.199.9">> has been added
+2018-05-20 11:49:08 [main:310] - [ERROR]  
+ /EdgeType = <"NetworkConnection">/It is an invalid commander
+2018-05-20 11:49:08 [main:311] - [INFO]  
+ <"v1", "Computer", <"192.168.88.106">> has been added
+2018-05-20 11:49:08 [main:312] - [INFO]  
+ <"v2", "Server", <"192.168.199.1">> has been added
+2018-05-20 11:49:08 [main:312] - [INFO]  
+ <"v3", "Router", <"192.168.199.52">> has been added
+2018-05-20 11:49:08 [main:312] - [INFO]  
+ <"v4", "Router", <"192.168.199.9">> has been added
+2018-05-20 11:49:08 [main:313] - [ERROR]  
+ /Edge = <"e1.", "NetworkConnection", "100", "v1", "v2", "No">/e1. is an invalid label
+2018-05-20 11:49:08 [main:314] - [INFO]  
+ <"v1", "Computer", <"192.168.88.106">> has been added
+2018-05-20 11:49:08 [main:315] - [INFO]  
+ <"v2", "Server", <"192.168.199.1">> has been added
+2018-05-20 11:49:08 [main:315] - [INFO]  
+ <"v3", "Router", <"192.168.199.52">> has been added
+2018-05-20 11:49:08 [main:316] - [INFO]  
+ <"v4", "Router", <"192.168.199.9">> has been added
+2018-05-20 11:49:08 [main:316] - [ERROR]  
+ /Edge = <"e1", "CommentTie", "100", "v1", "v2", "No">/CommentTie is an invalid edge type
+2018-05-20 11:49:08 [main:324] - [INFO]  
+ <"v1", "Computer", <"192.168.88.106">> has been added
+2018-05-20 11:49:08 [main:324] - [INFO]  
+ <"v2", "Server", <"192.168.199.1">> has been added
+2018-05-20 11:49:08 [main:325] - [INFO]  
+ <"v3", "Router", <"192.168.199.52">> has been added
+2018-05-20 11:49:08 [main:325] - [INFO]  
+ <"v4", "Router", <"192.168.199.9">> has been added
+2018-05-20 11:49:08 [main:325] - [ERROR]  
+ /Edge = <"e1", "NetworkConnection", "-50", "v1", "v2", "No">/-50 is an invalid weight
+2018-05-20 11:49:08 [main:330] - [INFO]  
+ <"v1", "Computer", <"192.168.88.106">> has been added
+2018-05-20 11:49:08 [main:330] - [INFO]  
+ <"v2", "Server", <"192.168.199.1">> has been added
+2018-05-20 11:49:08 [main:330] - [INFO]  
+ <"v3", "Router", <"192.168.199.52">> has been added
+2018-05-20 11:49:08 [main:330] - [INFO]  
+ <"v4", "Router", <"192.168.199.9">> has been added
+2018-05-20 11:49:08 [main:331] - [ERROR]  
+ /Edge = <"e1", "NetworkConnection", "one hundred", "v1", "v2", "No">/one hundred is an invalid weight
+2018-05-20 11:49:08 [main:332] - [INFO]  
+ <"v1", "Computer", <"192.168.88.106">> has been added
+2018-05-20 11:49:08 [main:333] - [INFO]  
+ <"v2", "Server", <"192.168.199.1">> has been added
+2018-05-20 11:49:08 [main:333] - [INFO]  
+ <"v3", "Router", <"192.168.199.52">> has been added
+2018-05-20 11:49:08 [main:337] - [INFO]  
+ <"v4", "Router", <"192.168.199.9">> has been added
+2018-05-20 11:49:08 [main:338] - [WARN]  
+ /Edge = <"e1", "NetworkConnection", "100", "v1", "v1", "No">/there are no loops in this graph
+2018-05-20 11:49:08 [main:338] - [INFO]  
+ <"e1", "NetworkConnection", "100.0", "v1,v2", No> has been added
+2018-05-20 11:49:08 [main:339] - [INFO]  
+ <"e2", "NetworkConnection", "50.0", "v2,v3", No> has been added
+2018-05-20 11:49:08 [main:339] - [INFO]  
+ <"e3", "NetworkConnection", "10.0", "v1,v3", No> has been added
+2018-05-20 11:49:08 [main:339] - [INFO]  
+ <"e4", "NetworkConnection", "100.0", "v4,v3", No> has been added
+2018-05-20 11:49:08 [main:340] - [INFO]  
+ <"v1", "Computer", <"192.168.88.106">> has been added
+2018-05-20 11:49:08 [main:340] - [INFO]  
+ <"v2", "Server", <"192.168.199.1">> has been added
+2018-05-20 11:49:08 [main:341] - [INFO]  
+ <"v3", "Router", <"192.168.199.52">> has been added
+2018-05-20 11:49:08 [main:341] - [INFO]  
+ <"v4", "Router", <"192.168.199.9">> has been added
+2018-05-20 11:49:08 [main:344] - [WARN]  
+ /Edge = <"e1", "NetworkConnection", "100", "v1", "v2", "Yes">/there are no undirected edges in this graph
+2018-05-20 11:49:08 [main:345] - [INFO]  
+ <"e1", "NetworkConnection", "100.0", "v1,v2", No> has been added
+2018-05-20 11:49:08 [main:349] - [INFO]  
+ <"e2", "NetworkConnection", "50.0", "v2,v3", No> has been added
+2018-05-20 11:49:08 [main:349] - [INFO]  
+ <"e3", "NetworkConnection", "10.0", "v1,v3", No> has been added
+2018-05-20 11:49:08 [main:350] - [INFO]  
+ <"e4", "NetworkConnection", "100.0", "v4,v3", No> has been added
+2018-05-20 11:49:08 [main:351] - [INFO]  
+ <"v1", "Computer", <"192.168.88.106">> has been added
+2018-05-20 11:49:08 [main:352] - [INFO]  
+ <"v2", "Server", <"192.168.199.1">> has been added
+2018-05-20 11:49:08 [main:352] - [INFO]  
+ <"v3", "Router", <"192.168.199.52">> has been added
+2018-05-20 11:49:08 [main:352] - [INFO]  
+ <"v4", "Router", <"192.168.199.9">> has been added
+2018-05-20 11:49:08 [main:352] - [ERROR]  
+ /Edge = <"e4", "NetworkConnection", "100", "v5", "v3", "No">/there are no enough vertices in this graph
+2018-05-20 11:49:08 [main:356] - [INFO]  
+ <"v1", "Computer", <"192.168.88.106">> has been added
+2018-05-20 11:49:08 [main:356] - [INFO]  
+ <"v2", "Server", <"192.168.199.1">> has been added
+2018-05-20 11:49:08 [main:356] - [INFO]  
+ <"v3", "Router", <"192.168.199.52">> has been added
+2018-05-20 11:49:08 [main:356] - [INFO]  
+ <"v4", "Router", <"192.168.199.9">> has been added
+2018-05-20 11:49:08 [main:357] - [INFO]  
+ <"v5", "Computer", <"192.168.199.99">> has been added
+2018-05-20 11:49:08 [main:357] - [ERROR]  
+ /Edge = <"e5", "NetworkConnection", "100", "v1", "v5", "No">/It's an invalid edge
+2018-05-20 11:49:08 [main:357] - [INFO]  
+ <"e4", "NetworkConnection", "100.0", "v4,v3", No> has been added
+2018-05-20 11:49:08 [main:357] - [INFO]  
+ <"e1", "NetworkConnection", "100.0", "v1,v2", No> has been added
+2018-05-20 11:49:08 [main:357] - [INFO]  
+ <"e2", "NetworkConnection", "50.0", "v2,v3", No> has been added
+2018-05-20 11:49:08 [main:360] - [INFO]  
+ <"e3", "NetworkConnection", "10.0", "v1,v3", No> has been added
+2018-05-20 11:49:08 [main:360] - [INFO]  
+ <"e4", "NetworkConnection", "100.0", "v4,v3", No> has been added
+2018-05-20 11:49:08 [main:365] - [INFO]  
+ <"v1", "Computer", <"192.168.88.106">> has been added
+2018-05-20 11:49:08 [main:365] - [INFO]  
+ <"v2", "Server", <"192.168.199.1">> has been added
+2018-05-20 11:49:08 [main:365] - [INFO]  
+ <"v3", "Router", <"192.168.199.52">> has been added
+2018-05-20 11:49:08 [main:365] - [INFO]  
+ <"v4", "Router", <"192.168.199.9">> has been added
+2018-05-20 11:49:08 [main:366] - [ERROR]  
+ /Edge = <"e1", "NetworkConnection", "100", "v1", "v2", "No">>/It is an invalid commander
+2018-05-20 11:49:08 [main:367] - [INFO]  
+ <"v1", "Computer", <"192.168.88.106">> has been added
+2018-05-20 11:49:08 [main:368] - [INFO]  
+ <"v2", "Server", <"192.168.199.1">> has been added
+2018-05-20 11:49:08 [main:368] - [INFO]  
+ <"v3", "Router", <"192.168.199.52">> has been added
+2018-05-20 11:49:08 [main:368] - [INFO]  
+ <"v4", "Router", <"192.168.199.9">> has been added
+2018-05-20 11:49:08 [main:368] - [WARN]  
+ /HyperEdge = /There isn't a hyperedge in this graph
+2018-05-20 11:49:08 [main:368] - [INFO]  
+ <"e1", "NetworkConnection", "100.0", "v1,v2", No> has been added
+2018-05-20 11:49:08 [main:368] - [INFO]  
+ <"e2", "NetworkConnection", "50.0", "v2,v3", No> has been added
+2018-05-20 11:49:08 [main:368] - [INFO]  
+ <"e3", "NetworkConnection", "10.0", "v1,v3", No> has been added
+2018-05-20 11:49:08 [main:369] - [INFO]  
+ <"e4", "NetworkConnection", "100.0", "v4,v3", No> has been added
+2018-05-20 11:49:08 [main:373] - [ERROR]  
+ /Vertex = <"v1", "Computer">/There are not enough attributes
+2018-05-20 11:49:08 [main:378] - [INFO]  
+ <"v1", "Computer", <"192.168.88.106">> has been added
+2018-05-20 11:49:08 [main:378] - [INFO]  
+ <"v2", "Server", <"192.168.199.1">> has been added
+2018-05-20 11:49:08 [main:378] - [INFO]  
+ <"v3", "Router", <"192.168.199.52">> has been added
+2018-05-20 11:49:08 [main:378] - [INFO]  
+ <"v4", "Router", <"192.168.199.9">> has been added
+2018-05-20 11:49:08 [main:378] - [INFO]  
+ <"e1", "NetworkConnection", "100.0", "v1,v2", No> has been added
+2018-05-20 11:49:08 [main:378] - [INFO]  
+ <"e2", "NetworkConnection", "50.0", "v2,v3", No> has been added
+2018-05-20 11:49:08 [main:379] - [INFO]  
+ <"e3", "NetworkConnection", "10.0", "v1,v3", No> has been added
+2018-05-20 11:49:08 [main:379] - [INFO]  
+ <"e4", "NetworkConnection", "100.0", "v4,v3", No> has been added
+2018-05-20 11:49:08 [main:382] - [INFO]  
+ <"v1", "Computer", <"192.168.88.106">> has been added
+2018-05-20 11:49:08 [main:382] - [INFO]  
+ <"v2", "Server", <"192.168.199.1">> has been added
+2018-05-20 11:49:08 [main:382] - [INFO]  
+ <"e1", "NetworkConnection", "100.0", "v1,v2", No> has been added
+2018-05-20 11:49:08 [main:382] - [INFO]  
+ <"v3", "Router", <"192.168.199.52">> has been added
+2018-05-20 11:49:08 [main:382] - [INFO]  
+ <"e2", "NetworkConnection", "50.0", "v2,v3", No> has been added
+2018-05-20 11:49:08 [main:382] - [INFO]  
+ <"e3", "NetworkConnection", "10.0", "v1,v3", No> has been added
+2018-05-20 11:49:08 [main:382] - [INFO]  
+ <"v4", "Router", <"192.168.199.9">> has been added
+2018-05-20 11:49:08 [main:382] - [INFO]  
+ <"e4", "NetworkConnection", "100.0", "v4,v3", No> has been added
+2018-05-20 11:49:08 [main:384] - [INFO]  
+ <"v1", "Computer", <"192.168.88.106">> has been added
+2018-05-20 11:49:08 [main:384] - [INFO]  
+ <"v2", "Server", <"192.168.199.1">> has been added
+2018-05-20 11:49:08 [main:384] - [INFO]  
+ <"e1", "NetworkConnection", "100.0", "v1,v2", No> has been added
+2018-05-20 11:49:08 [main:384] - [INFO]  
+ <"v3", "Router", <"192.168.199.52">> has been added
+2018-05-20 11:49:08 [main:384] - [INFO]  
+ <"e2", "NetworkConnection", "50.0", "v2,v3", No> has been added
+2018-05-20 11:49:08 [main:384] - [INFO]  
+ <"e3", "NetworkConnection", "10.0", "v1,v3", No> has been added
+2018-05-20 11:49:08 [main:386] - [INFO]  
+ <"v1", "Computer", <"192.168.88.106">> has been added
+2018-05-20 11:49:08 [main:391] - [INFO]  
+ <"v2", "Server", <"192.168.199.1">> has been added
+2018-05-20 11:49:08 [main:391] - [INFO]  
+ <"v3", "Router", <"192.168.199.52">> has been added
+2018-05-20 11:49:08 [main:391] - [INFO]  
+ <"v1", "Computer", <"192.168.88.106">> has been added
+2018-05-20 11:49:08 [main:391] - [INFO]  
+ <"v2", "Server", <"192.168.199.1">> has been added
+2018-05-20 11:49:08 [main:391] - [INFO]  
+ <"e1", "NetworkConnection", "100.0", "v1,v2", No> has been added
+2018-05-20 11:49:08 [main:391] - [INFO]  
+ <"v3", "Router", <"192.168.199.52">> has been added
+2018-05-20 11:49:08 [main:391] - [INFO]  
+ <"e2", "NetworkConnection", "50.0", "v2,v3", No> has been added
+2018-05-20 11:49:08 [main:392] - [INFO]  
+ <"e3", "NetworkConnection", "10.0", "v1,v3", No> has been added
+2018-05-20 11:49:08 [main:401] - [INFO]  
+ <"v4", "Router", <"192.168.199.9">> has been added
+2018-05-20 11:49:08 [main:401] - [INFO]  
+ <"e4", "NetworkConnection", "100.0", "v4,v3", No> has been added
+2018-05-20 11:49:08 [main:401] - [INFO]  
+ <"v1", "Computer", <"192.168.88.106">> has been added
+2018-05-20 11:49:08 [main:401] - [INFO]  
+ <"v2", "Server", <"192.168.199.1">> has been added
+2018-05-20 11:49:08 [main:401] - [INFO]  
+ <"v3", "Router", <"192.168.199.52">> has been added
+2018-05-20 11:49:08 [main:401] - [INFO]  
+ <"v4", "Router", <"192.168.199.9">> has been added
+2018-05-20 11:49:08 [main:402] - [INFO]  
+ <"v1", "Computer", <"192.168.88.106">> has been removed
+2018-05-20 11:49:08 [main:402] - [INFO]  
+ <"v2", "Server", <"192.168.199.1">> has been removed
+2018-05-20 11:49:08 [main:402] - [INFO]  
+ <"v3", "Router", <"192.168.199.52">> has been removed
+2018-05-20 11:49:08 [main:402] - [INFO]  
+ <"v4", "Router", <"192.168.199.9">> has been removed
+2018-05-20 11:49:08 [main:402] - [INFO]  
+ <"v1", "Computer", <"192.168.88.106">> has been added
+2018-05-20 11:49:08 [main:402] - [INFO]  
+ <"v2", "Server", <"192.168.199.1">> has been added
+2018-05-20 11:49:08 [main:402] - [INFO]  
+ <"e1", "NetworkConnection", "100.0", "v1,v2", No> has been added
+2018-05-20 11:49:08 [main:402] - [INFO]  
+ <"v3", "Router", <"192.168.199.52">> has been added
+2018-05-20 11:49:08 [main:403] - [INFO]  
+ <"e2", "NetworkConnection", "50.0", "v2,v3", No> has been added
+2018-05-20 11:49:08 [main:403] - [INFO]  
+ <"e3", "NetworkConnection", "10.0", "v1,v3", No> has been added
+2018-05-20 11:49:08 [main:403] - [INFO]  
+ <"e1", "NetworkConnection", "100.0", "v1,v2", No> has been removed
+2018-05-20 11:49:08 [main:403] - [INFO]  
+ <"e1", "NetworkConnection", "100.0", "v1,v2", No> has been removed
+2018-05-20 11:49:08 [main:403] - [INFO]  
+ <"e2", "NetworkConnection", "50.0", "v2,v3", No> has been removed
+2018-05-20 11:49:08 [main:403] - [INFO]  
+ <"e2", "NetworkConnection", "50.0", "v2,v3", No> has been removed
+2018-05-20 11:49:08 [main:403] - [INFO]  
+ <"e3", "NetworkConnection", "10.0", "v1,v3", No> has been removed
+2018-05-20 11:49:08 [main:403] - [INFO]  
+ <"e3", "NetworkConnection", "10.0", "v1,v3", No> has been removed
+2018-05-20 11:49:08 [main:404] - [INFO]  
+ <"v1", "Computer", <"192.168.88.106">> has been added
+2018-05-20 11:49:08 [main:404] - [INFO]  
+ <"v2", "Server", <"192.168.199.1">> has been added
+2018-05-20 11:49:08 [main:404] - [INFO]  
+ <"v3", "Router", <"192.168.199.52">> has been added
+2018-05-20 11:49:08 [main:404] - [INFO]  
+ <"v4", "Router", <"192.168.199.2">> has been added
+2018-05-20 11:49:08 [main:410] - [INFO]  
+ <"v1", "Computer", <"192.168.88.106">> has been added
+2018-05-20 11:49:08 [main:410] - [INFO]  
+ <"v2", "Server", <"192.168.199.1">> has been added
+2018-05-20 11:49:08 [main:410] - [INFO]  
+ <"e1", "NetworkConnection", "100.0", "v1,v2", No> has been added
+2018-05-20 11:49:08 [main:412] - [INFO]  
+ <"v3", "Router", <"192.168.199.52">> has been added
+2018-05-20 11:49:08 [main:412] - [INFO]  
+ <"e2", "NetworkConnection", "50.0", "v2,v3", No> has been added
+2018-05-20 11:49:08 [main:413] - [INFO]  
+ <"e3", "NetworkConnection", "10.0", "v1,v3", No> has been added
+2018-05-20 11:49:08 [main:413] - [INFO]  
+ <"v4", "Router", <"192.168.199.9">> has been added
+2018-05-20 11:49:08 [main:413] - [INFO]  
+ <"e4", "NetworkConnection", "100.0", "v4,v3", No> has been added
+2018-05-20 11:49:08 [main:439] - [ERROR]  
+ /VertexType1 = "Person"/It is an invalid commander
+2018-05-20 11:49:08 [main:440] - [ERROR]  
+ /GraphType = "SocialNetwork1"/It is an invalid commander
+2018-05-20 11:49:08 [main:442] - [ERROR]  
+ /GraphType == "SocialNetwork"/It is an invalid commander
+2018-05-20 11:49:08 [main:447] - [ERROR]  
+ /GraphName = "SocialNetworkTest!"/SocialNetworkTest! is an invalid label
+2018-05-20 11:49:08 [main:448] - [ERROR]  
+ /GraphName = ,"SocialNetworkTest"/It is an invalid commander
+2018-05-20 11:49:08 [main:449] - [ERROR]  
+ /VertexType = "Movie"/Movie is an invalid vertex type
+2018-05-20 11:49:08 [main:449] - [ERROR]  
+ /VertexType "= "Person"/It is an invalid commander
+2018-05-20 11:49:08 [main:450] - [ERROR]  
+ /Vertex = <"Ren+", "Person", <"M", "20">>/Ren+ is an invalid label
+2018-05-20 11:49:08 [main:457] - [INFO]  
+ <"Ren", "Person", <"M", "20">> has been added
+2018-05-20 11:49:08 [main:457] - [ERROR]  
+ /Vertex = <"Li", "Actor", <"F", "19">>/Actor is an invalid vertex type in this graph
+2018-05-20 11:49:08 [main:462] - [INFO]  
+ <"Ren", "Person", <"M", "20">> has been added
+2018-05-20 11:49:08 [main:462] - [ERROR]  
+ /Vertex = <"Li", "Person", <"F", "19", "happy">>/the number of attributes is wrong
+2018-05-20 11:49:08 [main:462] - [INFO]  
+ <"Ren", "Person", <"M", "20">> has been added
+2018-05-20 11:49:08 [main:463] - [ERROR]  
+ /Vertex = <"Li", "Person", <"FF", "19">>/FF is an invalid attribute
+2018-05-20 11:49:08 [main:466] - [INFO]  
+ <"Ren", "Person", <"M", "20">> has been added
+2018-05-20 11:49:08 [main:466] - [INFO]  
+ <"Li", "Person", <"F", "19">> has been added
+2018-05-20 11:49:08 [main:466] - [ERROR]  
+ /Vertex = <"An", "Person", <"F", "21.5">>/21.5 is an invalid attribute
+2018-05-20 11:49:08 [main:471] - [INFO]  
+ <"Ren", "Person", <"M", "20">> has been added
+2018-05-20 11:49:08 [main:472] - [INFO]  
+ <"Li", "Person", <"F", "19">> has been added
+2018-05-20 11:49:08 [main:472] - [ERROR]  
+ /Vertex = <"An", "Person", <"F", "21">/It is an invalid commander
+2018-05-20 11:49:08 [main:478] - [INFO]  
+ <"Ren", "Person", <"M", "20">> has been added
+2018-05-20 11:49:08 [main:478] - [INFO]  
+ <"Li", "Person", <"F", "19">> has been added
+2018-05-20 11:49:08 [main:478] - [INFO]  
+ <"An", "Person", <"F", "21">> has been added
+2018-05-20 11:49:08 [main:478] - [ERROR]  
+ /EdgeType = "CommentTie", "ForwardTie", "FriendTie", "NetworkConnection"/NetworkConnection is an invalid edge type
+2018-05-20 11:49:08 [main:479] - [INFO]  
+ <"Ren", "Person", <"M", "20">> has been added
+2018-05-20 11:49:08 [main:480] - [INFO]  
+ <"Li", "Person", <"F", "19">> has been added
+2018-05-20 11:49:08 [main:480] - [INFO]  
+ <"An", "Person", <"F", "21">> has been added
+2018-05-20 11:49:08 [main:480] - [ERROR]  
+ /EdgeType = "CommentTie", "ForwardTie",, "FriendTie"/It is an invalid commander
+2018-05-20 11:49:08 [main:480] - [INFO]  
+ <"Ren", "Person", <"M", "20">> has been added
+2018-05-20 11:49:08 [main:480] - [INFO]  
+ <"Li", "Person", <"F", "19">> has been added
+2018-05-20 11:49:08 [main:480] - [INFO]  
+ <"An", "Person", <"F", "21">> has been added
+2018-05-20 11:49:08 [main:481] - [ERROR]  
+ /Edge = <"E1+", "CommentTie", "1", "Li", "Ren", "Yes">/E1+ is an invalid label
+2018-05-20 11:49:08 [main:482] - [INFO]  
+ <"Ren", "Person", <"M", "20">> has been added
+2018-05-20 11:49:08 [main:482] - [INFO]  
+ <"Li", "Person", <"F", "19">> has been added
+2018-05-20 11:49:08 [main:482] - [INFO]  
+ <"An", "Person", <"F", "21">> has been added
+2018-05-20 11:49:08 [main:482] - [ERROR]  
+ /Edge = <"E1", "Director", "1", "Li", "Ren", "Yes">/Director is an invalid edge type
+2018-05-20 11:49:08 [main:483] - [INFO]  
+ <"Ren", "Person", <"M", "20">> has been added
+2018-05-20 11:49:08 [main:483] - [INFO]  
+ <"Li", "Person", <"F", "19">> has been added
+2018-05-20 11:49:08 [main:483] - [INFO]  
+ <"An", "Person", <"F", "21">> has been added
+2018-05-20 11:49:08 [main:483] - [INFO]  
+ <"E1", "CommentTie", "1.0", "Li", "Ren", Yes> has been added
+2018-05-20 11:49:08 [main:483] - [ERROR]  
+ /Edge = <"E2", "FriendTie", "2", "Li", "An", "Yes">/2 is an invalid weight
+2018-05-20 11:49:08 [main:484] - [INFO]  
+ <"Ren", "Person", <"M", "20">> has been added
+2018-05-20 11:49:08 [main:484] - [INFO]  
+ <"Li", "Person", <"F", "19">> has been added
+2018-05-20 11:49:08 [main:485] - [INFO]  
+ <"An", "Person", <"F", "21">> has been added
+2018-05-20 11:49:08 [main:485] - [ERROR]  
+ /Edge = <"E1", "CommentTie", "one", "Li", "Ren", "Yes">/one is an invalid weight
+2018-05-20 11:49:08 [main:486] - [INFO]  
+ <"Ren", "Person", <"M", "20">> has been added
+2018-05-20 11:49:08 [main:486] - [INFO]  
+ <"Li", "Person", <"F", "19">> has been added
+2018-05-20 11:49:08 [main:486] - [INFO]  
+ <"An", "Person", <"F", "21">> has been added
+2018-05-20 11:49:08 [main:486] - [INFO]  
+ <"E1", "CommentTie", "1.0", "Li", "Ren", Yes> has been added
+2018-05-20 11:49:08 [main:487] - [INFO]  
+ <"E2", "FriendTie", "0.5", "Li", "An", Yes> has been added
+2018-05-20 11:49:08 [main:487] - [INFO]  
+ <"E3", "ForwardTie", "0.5", "Ren", "An", Yes> has been added
+2018-05-20 11:49:08 [main:487] - [INFO]  
+ <"E4", "ForwardTie", "0.6", "Ren", "An", Yes> has been added
+2018-05-20 11:49:08 [main:487] - [WARN]  
+ /Edge = <"E1", "FriendTie", "0.6", "An", "An", "Yes">/there are no loops in this graph
+2018-05-20 11:49:08 [main:488] - [INFO]  
+ <"Ren", "Person", <"M", "20">> has been added
+2018-05-20 11:49:08 [main:488] - [INFO]  
+ <"Li", "Person", <"F", "19">> has been added
+2018-05-20 11:49:08 [main:488] - [INFO]  
+ <"An", "Person", <"F", "21">> has been added
+2018-05-20 11:49:08 [main:488] - [INFO]  
+ <"E1", "CommentTie", "1.0", "Li", "Ren", Yes> has been added
+2018-05-20 11:49:08 [main:488] - [INFO]  
+ <"E2", "FriendTie", "0.5", "Li", "An", Yes> has been added
+2018-05-20 11:49:08 [main:488] - [INFO]  
+ <"E3", "ForwardTie", "0.5", "Ren", "An", Yes> has been added
+2018-05-20 11:49:08 [main:488] - [ERROR]  
+ /Edge = <"E4", "ForwardTie", "0.6", "Ren", "An", "No">/there are no undirected edges in this graph
+2018-05-20 11:49:08 [main:498] - [INFO]  
+ <"Ren", "Person", <"M", "20">> has been added
+2018-05-20 11:49:08 [main:499] - [INFO]  
+ <"Li", "Person", <"F", "19">> has been added
+2018-05-20 11:49:08 [main:499] - [INFO]  
+ <"An", "Person", <"F", "21">> has been added
+2018-05-20 11:49:08 [main:500] - [INFO]  
+ <"E1", "CommentTie", "1.0", "Li", "Ren", Yes> has been added
+2018-05-20 11:49:08 [main:500] - [INFO]  
+ <"E2", "FriendTie", "0.5", "Li", "An", Yes> has been added
+2018-05-20 11:49:08 [main:501] - [ERROR]  
+ /Edge = <"E3", "ForwardTie", "0.5", "Ren", "An", "Yes>/It is an invalid commander
+2018-05-20 11:49:08 [main:504] - [INFO]  
+ <"Ren", "Person", <"M", "20">> has been added
+2018-05-20 11:49:08 [main:504] - [INFO]  
+ <"Li", "Person", <"F", "19">> has been added
+2018-05-20 11:49:08 [main:504] - [INFO]  
+ <"An", "Person", <"F", "21">> has been added
+2018-05-20 11:49:08 [main:504] - [INFO]  
+ <"E1", "CommentTie", "1.0", "Li", "Ren", Yes> has been added
+2018-05-20 11:49:08 [main:505] - [INFO]  
+ <"E2", "FriendTie", "0.5", "Li", "An", Yes> has been added
+2018-05-20 11:49:08 [main:505] - [INFO]  
+ <"E3", "ForwardTie", "0.5", "Ren", "An", Yes> has been added
+2018-05-20 11:49:08 [main:505] - [WARN]  
+ /HyperEdge = <"E5", "all", "Li", "Ren", "An">/There isn't a hyperedge in this graph
+2018-05-20 11:49:08 [main:505] - [INFO]  
+ <"E4", "ForwardTie", "0.6", "Ren", "An", Yes> has been added
+2018-05-20 11:49:08 [main:506] - [INFO]  
+ <"E1", "FriendTie", "0.6", "Ren", "An", Yes> has been added
+2018-05-20 11:49:08 [main:506] - [INFO]  
+ <"Ren", "Person", <"M", "20">> has been added
+2018-05-20 11:49:08 [main:506] - [INFO]  
+ <"Li", "Person", <"F", "19">> has been added
+2018-05-20 11:49:08 [main:506] - [INFO]  
+ <"An", "Person", <"F", "21">> has been added
+2018-05-20 11:49:08 [main:507] - [INFO]  
+ <"E1", "CommentTie", "1.0", "Li", "Ren", Yes> has been added
+2018-05-20 11:49:08 [main:507] - [INFO]  
+ <"E2", "FriendTie", "0.5", "Li", "An", Yes> has been added
+2018-05-20 11:49:08 [main:507] - [INFO]  
+ <"E3", "ForwardTie", "0.5", "Ren", "An", Yes> has been added
+2018-05-20 11:49:08 [main:507] - [ERROR]  
+ /Edge = <"E4", "ForwardTie", "0.6", "Ren", "Sui", "Yes">/there are no enough vertices in this graph
+2018-05-20 11:49:08 [main:508] - [ERROR]  
+ /Vertex = <"Ren", "Person">/There are not enough attributes
+2018-05-20 11:49:08 [main:514] - [INFO]  
+ <"Ren", "Person", <"M", "20">> has been added
+2018-05-20 11:49:08 [main:514] - [INFO]  
+ <"Li", "Person", <"F", "19">> has been added
+2018-05-20 11:49:08 [main:514] - [INFO]  
+ <"An", "Person", <"F", "21">> has been added
+2018-05-20 11:49:08 [main:515] - [INFO]  
+ <"E1", "CommentTie", "1.0", "Li", "Ren", Yes> has been added
+2018-05-20 11:49:08 [main:515] - [INFO]  
+ <"E2", "FriendTie", "0.5", "Li", "An", Yes> has been added
+2018-05-20 11:49:08 [main:515] - [INFO]  
+ <"E3", "ForwardTie", "0.5", "Ren", "An", Yes> has been added
+2018-05-20 11:49:08 [main:518] - [INFO]  
+ <"E4", "ForwardTie", "0.6", "Ren", "An", Yes> has been added
+2018-05-20 11:49:08 [main:518] - [INFO]  
+ <"E1", "FriendTie", "0.6", "Ren", "An", Yes> has been added
+2018-05-20 11:49:08 [main:518] - [INFO]  
+ <"Ren", "Person", <"M", "21">> has been added
+2018-05-20 11:49:08 [main:518] - [INFO]  
+ <"Li", "Person", <"F", "20">> has been added
+2018-05-20 11:49:08 [main:518] - [INFO]  
+ <"E1", "CommentTie", "1.0", "Li", "Ren", Yes> has been added
+2018-05-20 11:49:08 [main:518] - [INFO]  
+ <"An", "Person", <"F", "21">> has been added
+2018-05-20 11:49:08 [main:518] - [INFO]  
+ <"E2", "FriendTie", "0.5", "Li", "An", Yes> has been added
+2018-05-20 11:49:08 [main:519] - [INFO]  
+ <"E3", "ForwardTie", "0.5", "Ren", "An", Yes> has been added
+2018-05-20 11:49:08 [main:519] - [INFO]  
+ <"E4", "CommentTie", "0.6", "Li", "An", Yes> has been added
+2018-05-20 11:49:08 [main:519] - [INFO]  
+ <"Ren", "Person", <"M", "21">> has been added
+2018-05-20 11:49:08 [main:519] - [INFO]  
+ <"Li", "Person", <"F", "20">> has been added
+2018-05-20 11:49:08 [main:519] - [INFO]  
+ <"E1", "CommentTie", "1.0", "Li", "Ren", Yes> has been added
+2018-05-20 11:49:08 [main:519] - [INFO]  
+ <"An", "Person", <"F", "21">> has been added
+2018-05-20 11:49:08 [main:519] - [INFO]  
+ <"E2", "FriendTie", "0.5", "Li", "An", Yes> has been added
+2018-05-20 11:49:08 [main:519] - [INFO]  
+ <"E3", "ForwardTie", "0.5", "Ren", "An", Yes> has been added
+2018-05-20 11:49:08 [main:520] - [INFO]  
+ <"E4", "ForwardTie", "0.6", "Ren", "An", Yes> has been added
+2018-05-20 11:49:08 [main:520] - [INFO]  
+ <"E1", "FriendTie", "0.6", "Ren", "An", Yes> has been added
+2018-05-20 11:49:08 [main:520] - [INFO]  
+ <"Ren", "Person", <"M", "21">> has been added
+2018-05-20 11:49:08 [main:520] - [INFO]  
+ <"Li", "Person", <"F", "20">> has been added
+2018-05-20 11:49:08 [main:520] - [INFO]  
+ <"E1", "CommentTie", "1.0", "Li", "Ren", Yes> has been added
+2018-05-20 11:49:08 [main:520] - [INFO]  
+ <"An", "Person", <"F", "21">> has been added
+2018-05-20 11:49:08 [main:520] - [INFO]  
+ <"E2", "FriendTie", "0.5", "Li", "An", Yes> has been added
+2018-05-20 11:49:08 [main:520] - [INFO]  
+ <"E3", "ForwardTie", "0.5", "Ren", "An", Yes> has been added
+2018-05-20 11:49:08 [main:521] - [INFO]  
+ <"Ren", "Person", <"M", "21">> has been added
+2018-05-20 11:49:08 [main:521] - [INFO]  
+ <"Li", "Person", <"F", "20">> has been added
+2018-05-20 11:49:08 [main:521] - [INFO]  
+ <"E1", "CommentTie", "1.0", "Li", "Ren", Yes> has been added
+2018-05-20 11:49:08 [main:521] - [INFO]  
+ <"An", "Person", <"F", "21">> has been added
+2018-05-20 11:49:08 [main:521] - [INFO]  
+ <"E2", "FriendTie", "0.5", "Li", "An", Yes> has been added
+2018-05-20 11:49:08 [main:521] - [INFO]  
+ <"E3", "ForwardTie", "0.5", "Ren", "An", Yes> has been added
+2018-05-20 11:49:08 [main:521] - [INFO]  
+ <"E4", "CommentTie", "0.6", "Li", "An", Yes> has been added
+2018-05-20 11:49:08 [main:531] - [INFO]  
+ <"Ren", "Person", <"M", "21">> has been added
+2018-05-20 11:49:08 [main:532] - [INFO]  
+ <"Li", "Person", <"F", "20">> has been added
+2018-05-20 11:49:08 [main:532] - [INFO]  
+ <"E1", "CommentTie", "1.0", "Li", "Ren", Yes> has been added
+2018-05-20 11:49:08 [main:532] - [INFO]  
+ <"An", "Person", <"F", "21">> has been added
+2018-05-20 11:49:08 [main:532] - [INFO]  
+ <"E2", "FriendTie", "0.5", "Li", "An", Yes> has been added
+2018-05-20 11:49:08 [main:532] - [INFO]  
+ <"E3", "ForwardTie", "0.5", "Ren", "An", Yes> has been added
+2018-05-20 11:49:08 [main:532] - [INFO]  
+ <"E4", "CommentTie", "0.6", "Li", "An", Yes> has been added
+2018-05-20 11:49:08 [main:532] - [INFO]  
+ <"E3", "ForwardTie", "0.2", "Ren", "An", Yes> has been removed
+2018-05-20 11:49:08 [main:532] - [INFO]  
+ <"E2", "FriendTie", "0.125", "Li", "An", Yes> has been removed
+2018-05-20 11:49:08 [main:533] - [INFO]  
+ <"E4", "CommentTie", "0.857142857142857", "Li", "An", Yes> has been removed
+2018-05-20 11:49:08 [main:533] - [INFO]  
+ <"An", "Person", <"F", "21">> has been removed
+2018-05-20 11:49:08 [main:533] - [INFO]  
+ <"Ren", "Person", <"M", "21">> has been added
+2018-05-20 11:49:08 [main:533] - [INFO]  
+ <"Li", "Person", <"F", "20">> has been added
+2018-05-20 11:49:08 [main:533] - [INFO]  
+ <"E1", "CommentTie", "1.0", "Li", "Ren", Yes> has been added
+2018-05-20 11:49:08 [main:533] - [INFO]  
+ <"An", "Person", <"F", "21">> has been added
+2018-05-20 11:49:08 [main:533] - [INFO]  
+ <"E2", "FriendTie", "0.5", "Li", "An", Yes> has been added
+2018-05-20 11:49:08 [main:533] - [INFO]  
+ <"E3", "ForwardTie", "0.5", "Ren", "An", Yes> has been added
+2018-05-20 11:49:08 [main:538] - [INFO]  
+ <"E4", "CommentTie", "0.6", "Li", "An", Yes> has been added
+2018-05-20 11:49:08 [main:538] - [INFO]  
+ <"E4", "CommentTie", "0.6", "Li", "An", Yes> has been removed
+2018-05-20 11:49:08 [main:538] - [INFO]  
+ <"E3", "ForwardTie", "0.5", "Ren", "An", Yes> has been removed
+2018-05-20 11:49:08 [main:538] - [INFO]  
+ <"E2", "FriendTie", "0.5", "Li", "An", Yes> has been removed
+2018-05-20 11:49:08 [main:538] - [INFO]  
+ <"Ren", "Person", <"M", "21">> has been added
+2018-05-20 11:49:08 [main:538] - [INFO]  
+ <"Li", "Person", <"F", "20">> has been added
+2018-05-20 11:49:08 [main:538] - [INFO]  
+ <"An", "Person", <"F", "21">> has been added
+2018-05-20 11:49:08 [main:539] - [INFO]  
+ <"Ren", "Person", <"M", "21">> has been added
+2018-05-20 11:49:08 [main:539] - [INFO]  
+ <"Li", "Person", <"F", "20">> has been added
+2018-05-20 11:49:08 [main:539] - [INFO]  
+ <"E1", "CommentTie", "1.0", "Li", "Ren", Yes> has been added
+2018-05-20 11:49:08 [main:539] - [INFO]  
+ <"An", "Person", <"F", "21">> has been added
+2018-05-20 11:49:08 [main:539] - [INFO]  
+ <"E2", "FriendTie", "0.5", "Li", "An", Yes> has been added
+2018-05-20 11:49:08 [main:539] - [INFO]  
+ <"E3", "ForwardTie", "0.5", "Ren", "An", Yes> has been added
+2018-05-20 11:49:08 [main:539] - [INFO]  
+ <"E4", "CommentTie", "0.6", "Ren", "An", Yes> has been added
+2018-05-20 11:49:08 [main:552] - [INFO]  
+ <"d1", "Director", <"20", "M">> has been added
+2018-05-20 11:49:08 [main:552] - [INFO]  
+ <"a1", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:552] - [INFO]  
+ <"m1", "Movie", <"2018", "China", "9.9">> has been added
+2018-05-20 11:49:08 [main:552] - [INFO]  
+ <"a2", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:552] - [INFO]  
+ <"a3", "Actor", <"23", "M">> has been added
+2018-05-20 11:49:08 [main:552] - [INFO]  
+ <"a4", "Actor", <"24", "F">> has been added
+2018-05-20 11:49:08 [main:552] - [INFO]  
+ <"m2", "Movie", <"2017", "American", "8.8">> has been added
+2018-05-20 11:49:08 [main:552] - [ERROR]  
+ /DeleteVertex = <"d1", "Director", <"20", "M">>/It is an invalid commander
+2018-05-20 11:49:08 [main:553] - [ERROR]  
+ /GraphType = "GraphPoet"/It is an invalid commander
+2018-05-20 11:49:08 [main:553] - [ERROR]  
+ /GraphType = /MovieGraph//It is an invalid commander
+2018-05-20 11:49:08 [main:554] - [ERROR]  
+ /GraphName = "MovieGraphTest."/MovieGraphTest. is an invalid label
+2018-05-20 11:49:08 [main:554] - [ERROR]  
+ /GraphName = {MovieGraphTest}/It is an invalid commander
+2018-05-20 11:49:08 [main:554] - [ERROR]  
+ /VertexType = "Director", "Actor", "Movie", "Word"/Word is an invalid vertex type
+2018-05-20 11:49:08 [main:555] - [ERROR]  
+ /VertexType = "Director"\ "Actor"\ "Movie"/It is an invalid commander
+2018-05-20 11:49:08 [main:555] - [ERROR]  
+ /Vertex = <"d1+", "Director", <"20", "M">>/d1+ is an invalid label
+2018-05-20 11:49:08 [main:556] - [INFO]  
+ <"d1", "Director", <"20", "M">> has been added
+2018-05-20 11:49:08 [main:556] - [INFO]  
+ <"a1", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:556] - [ERROR]  
+ /Vertex = <"m1", "Word", <"2018", "China", "9.9">>/Word is an invalid vertex type in this graph
+2018-05-20 11:49:08 [main:556] - [INFO]  
+ <"d1", "Director", <"20", "M">> has been added
+2018-05-20 11:49:08 [main:556] - [ERROR]  
+ /Vertex = <"a1", "Actor", <"21.5", "F">>/0 is an invalid attribute
+2018-05-20 11:49:08 [main:557] - [INFO]  
+ <"d1", "Director", <"20", "M">> has been added
+2018-05-20 11:49:08 [main:557] - [INFO]  
+ <"a1", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:557] - [ERROR]  
+ /Vertex = <"m1", "Movie", <"2018", "China", "nine">>/0.0 is an invalid attribute
+2018-05-20 11:49:08 [main:557] - [INFO]  
+ <"d1", "Director", <"20", "M">> has been added
+2018-05-20 11:49:08 [main:558] - [INFO]  
+ <"a1", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:558] - [ERROR]  
+ /Vertex = <"m1", "Movie", <"2018", "China", "19.9">>/They are invalid attributes
+2018-05-20 11:49:08 [main:558] - [INFO]  
+ <"d1", "Director", <"20", "M">> has been added
+2018-05-20 11:49:08 [main:558] - [INFO]  
+ <"a1", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:558] - [ERROR]  
+ /Vertex = <"m1", "Movie", <"2018", "China", "-19.9">>/They are invalid attributes
+2018-05-20 11:49:08 [main:559] - [INFO]  
+ <"d1", "Director", <"20", "M">> has been added
+2018-05-20 11:49:08 [main:559] - [INFO]  
+ <"a1", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:559] - [ERROR]  
+ /Vertex = <"m1", "Movie", <"2019", "China", "9.9">>/They are invalid attributes
+2018-05-20 11:49:08 [main:560] - [INFO]  
+ <"d1", "Director", <"20", "M">> has been added
+2018-05-20 11:49:08 [main:560] - [INFO]  
+ <"a1", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:560] - [ERROR]  
+ /Vertex = <"m1", "Movie", <"1800", "China", "9.9">>/They are invalid attributes
+2018-05-20 11:49:08 [main:560] - [INFO]  
+ <"d1", "Director", <"20", "M">> has been added
+2018-05-20 11:49:08 [main:560] - [INFO]  
+ <"a1", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:561] - [ERROR]  
+ /Vertex = <"m1", "Movie", <"1800", "China">>/They are invalid attributes
+2018-05-20 11:49:08 [main:561] - [INFO]  
+ <"d1", "Director", <"20", "M">> has been added
+2018-05-20 11:49:08 [main:561] - [INFO]  
+ <"a1", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:561] - [ERROR]  
+ /Vertex = <"m1", "Movie", <"2018", "China", "ten">>/0.0 is an invalid attribute
+2018-05-20 11:49:08 [main:562] - [ERROR]  
+ /Vertex = <"d1", "Director", <"-20", "M">>/They are invalid attributes
+2018-05-20 11:49:08 [main:562] - [ERROR]  
+ /Vertex = <"d1", "Director", <"20", "Male">>/They are invalid attributes
+2018-05-20 11:49:08 [main:563] - [ERROR]  
+ /Vertex = <"d1", "Director", <"20">>/They are invalid attributes
+2018-05-20 11:49:08 [main:563] - [ERROR]  
+ /Vertex = <"d1", "Director", <"20", "Female">>/They are invalid attributes
+2018-05-20 11:49:08 [main:563] - [INFO]  
+ <"d1", "Director", <"20", "M">> has been added
+2018-05-20 11:49:08 [main:564] - [INFO]  
+ <"a1", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:564] - [INFO]  
+ <"m1", "Movie", <"2018", "China", "9.9">> has been added
+2018-05-20 11:49:08 [main:564] - [INFO]  
+ <"a2", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:564] - [ERROR]  
+ /Vertex = <"a3", "Actor", <"-23", "M">>/They are invalid attributes
+2018-05-20 11:49:08 [main:564] - [INFO]  
+ <"d1", "Director", <"20", "M">> has been added
+2018-05-20 11:49:08 [main:564] - [INFO]  
+ <"a1", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:565] - [INFO]  
+ <"m1", "Movie", <"2018", "China", "9.9">> has been added
+2018-05-20 11:49:08 [main:565] - [INFO]  
+ <"a2", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:565] - [ERROR]  
+ /Vertex = <"a3", "Actor", <"23", "Male">>/They are invalid attributes
+2018-05-20 11:49:08 [main:565] - [INFO]  
+ <"d1", "Director", <"20", "M">> has been added
+2018-05-20 11:49:08 [main:565] - [INFO]  
+ <"a1", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:565] - [INFO]  
+ <"m1", "Movie", <"2018", "China", "9.9">> has been added
+2018-05-20 11:49:08 [main:565] - [INFO]  
+ <"a2", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:566] - [ERROR]  
+ /Vertex = <"a3", "Actor", <"23">>/They are invalid attributes
+2018-05-20 11:49:08 [main:566] - [INFO]  
+ <"d1", "Director", <"20", "M">> has been added
+2018-05-20 11:49:08 [main:566] - [INFO]  
+ <"a1", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:566] - [INFO]  
+ <"m1", "Movie", <"2018", "China", "9.9">> has been added
+2018-05-20 11:49:08 [main:566] - [INFO]  
+ <"a2", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:566] - [ERROR]  
+ /Vertex = <"a3", "Actor", <"23", "M">/It is an invalid commander
+2018-05-20 11:49:08 [main:570] - [INFO]  
+ <"d1", "Director", <"20", "M">> has been added
+2018-05-20 11:49:08 [main:570] - [INFO]  
+ <"a1", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:570] - [INFO]  
+ <"m1", "Movie", <"2018", "China", "9.9">> has been added
+2018-05-20 11:49:08 [main:570] - [INFO]  
+ <"a2", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:570] - [INFO]  
+ <"a3", "Actor", <"23", "M">> has been added
+2018-05-20 11:49:08 [main:570] - [INFO]  
+ <"a4", "Actor", <"24", "F">> has been added
+2018-05-20 11:49:08 [main:571] - [INFO]  
+ <"m2", "Movie", <"2017", "American", "8.8">> has been added
+2018-05-20 11:49:08 [main:571] - [ERROR]  
+ /EdgeType = "MovieDirectorRelation", "MovieActorRelation", "ForwardTie"/ForwardTie is an invalid edge type
+2018-05-20 11:49:08 [main:572] - [INFO]  
+ <"d1", "Director", <"20", "M">> has been added
+2018-05-20 11:49:08 [main:572] - [INFO]  
+ <"a1", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:572] - [INFO]  
+ <"m1", "Movie", <"2018", "China", "9.9">> has been added
+2018-05-20 11:49:08 [main:572] - [INFO]  
+ <"a2", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:572] - [INFO]  
+ <"a3", "Actor", <"23", "M">> has been added
+2018-05-20 11:49:08 [main:572] - [INFO]  
+ <"a4", "Actor", <"24", "F">> has been added
+2018-05-20 11:49:08 [main:572] - [INFO]  
+ <"m2", "Movie", <"2017", "American", "8.8">> has been added
+2018-05-20 11:49:08 [main:572] - [ERROR]  
+ /EdgeType = "MovieDirectorRelation", "MovieActorRelation", "SameMovieHyperEdge/It is an invalid commander
+2018-05-20 11:49:08 [main:578] - [INFO]  
+ <"d1", "Director", <"20", "M">> has been added
+2018-05-20 11:49:08 [main:578] - [INFO]  
+ <"a1", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:579] - [INFO]  
+ <"m1", "Movie", <"2018", "China", "9.9">> has been added
+2018-05-20 11:49:08 [main:579] - [INFO]  
+ <"a2", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:579] - [INFO]  
+ <"a3", "Actor", <"23", "M">> has been added
+2018-05-20 11:49:08 [main:579] - [INFO]  
+ <"a4", "Actor", <"24", "F">> has been added
+2018-05-20 11:49:08 [main:579] - [INFO]  
+ <"m2", "Movie", <"2017", "American", "8.8">> has been added
+2018-05-20 11:49:08 [main:579] - [ERROR]  
+ /Edge = <"d+m1", "MovieDirectorRelation", "-1", "d1", "m1", "No">/d+m1 is an invalid label
+2018-05-20 11:49:08 [main:579] - [INFO]  
+ <"d1", "Director", <"20", "M">> has been added
+2018-05-20 11:49:08 [main:580] - [INFO]  
+ <"a1", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:580] - [INFO]  
+ <"m1", "Movie", <"2018", "China", "9.9">> has been added
+2018-05-20 11:49:08 [main:580] - [INFO]  
+ <"a2", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:580] - [INFO]  
+ <"a3", "Actor", <"23", "M">> has been added
+2018-05-20 11:49:08 [main:580] - [INFO]  
+ <"a4", "Actor", <"24", "F">> has been added
+2018-05-20 11:49:08 [main:580] - [INFO]  
+ <"m2", "Movie", <"2017", "American", "8.8">> has been added
+2018-05-20 11:49:08 [main:580] - [ERROR]  
+ /Edge = <"dm1", "FriendTie", "-1", "d1", "m1", "No">/FriendTie is an invalid edge type
+2018-05-20 11:49:08 [main:584] - [INFO]  
+ <"d1", "Director", <"20", "M">> has been added
+2018-05-20 11:49:08 [main:584] - [INFO]  
+ <"a1", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:584] - [INFO]  
+ <"m1", "Movie", <"2018", "China", "9.9">> has been added
+2018-05-20 11:49:08 [main:584] - [INFO]  
+ <"a2", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:584] - [INFO]  
+ <"a3", "Actor", <"23", "M">> has been added
+2018-05-20 11:49:08 [main:584] - [INFO]  
+ <"a4", "Actor", <"24", "F">> has been added
+2018-05-20 11:49:08 [main:584] - [INFO]  
+ <"m2", "Movie", <"2017", "American", "8.8">> has been added
+2018-05-20 11:49:08 [main:585] - [INFO]  
+ <"dm1", "MovieDirectorRelation", "-1.0", "d1m1", No> has been added
+2018-05-20 11:49:08 [main:586] - [INFO]  
+ <"dm2", "MovieDirectorRelation", "-1.0", "m2d1", No> has been added
+2018-05-20 11:49:08 [main:586] - [INFO]  
+ <"m1a1", "MovieActorRelation", "100.0", "a1m1", No> has been added
+2018-05-20 11:49:08 [main:586] - [ERROR]  
+ /Edge = <"m1a2", "MovieActorRelation", "fifty", "m1", "a2", "No">/fifty is an invalid weight
+2018-05-20 11:49:08 [main:586] - [INFO]  
+ <"d1", "Director", <"20", "M">> has been added
+2018-05-20 11:49:08 [main:586] - [INFO]  
+ <"a1", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:587] - [INFO]  
+ <"m1", "Movie", <"2018", "China", "9.9">> has been added
+2018-05-20 11:49:08 [main:587] - [INFO]  
+ <"a2", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:587] - [INFO]  
+ <"a3", "Actor", <"23", "M">> has been added
+2018-05-20 11:49:08 [main:587] - [INFO]  
+ <"a4", "Actor", <"24", "F">> has been added
+2018-05-20 11:49:08 [main:587] - [INFO]  
+ <"m2", "Movie", <"2017", "American", "8.8">> has been added
+2018-05-20 11:49:08 [main:587] - [WARN]  
+ /Edge = <"dm1", "MovieDirectorRelation", "-1", "d1", "d1", "No">/there are no loops in this graph
+2018-05-20 11:49:08 [main:587] - [INFO]  
+ <"dm1", "MovieDirectorRelation", "-1.0", "d1m1", No> has been added
+2018-05-20 11:49:08 [main:587] - [INFO]  
+ <"dm2", "MovieDirectorRelation", "-1.0", "m2d1", No> has been added
+2018-05-20 11:49:08 [main:587] - [INFO]  
+ <"m1a1", "MovieActorRelation", "100.0", "a1m1", No> has been added
+2018-05-20 11:49:08 [main:587] - [INFO]  
+ <"m1a2", "MovieActorRelation", "50.0", "a2m1", No> has been added
+2018-05-20 11:49:08 [main:588] - [INFO]  
+ <"m1a3", "MovieActorRelation", "25.0", "a3m1", No> has been added
+2018-05-20 11:49:08 [main:588] - [INFO]  
+ <"m2a2", "MovieActorRelation", "90.0", "m2a2", No> has been added
+2018-05-20 11:49:08 [main:588] - [INFO]  
+ <"m2a3", "MovieActorRelation", "60.0", "m2a3", No> has been added
+2018-05-20 11:49:08 [main:588] - [INFO]  
+ <"m2a4", "MovieActorRelation", "40.0", "m2a4", No> has been added
+2018-05-20 11:49:08 [main:589] - [INFO]  
+ <"sa1", "SameMovieHyperEdge", a1,a2,a3> has been added
+2018-05-20 11:49:08 [main:589] - [INFO]  
+ <"sa2", "SameMovieHyperEdge", a2,a3,a4> has been added
+2018-05-20 11:49:08 [main:590] - [INFO]  
+ <"d1", "Director", <"20", "M">> has been added
+2018-05-20 11:49:08 [main:590] - [INFO]  
+ <"a1", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:590] - [INFO]  
+ <"m1", "Movie", <"2018", "China", "9.9">> has been added
+2018-05-20 11:49:08 [main:590] - [INFO]  
+ <"a2", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:590] - [INFO]  
+ <"a3", "Actor", <"23", "M">> has been added
+2018-05-20 11:49:08 [main:590] - [INFO]  
+ <"a4", "Actor", <"24", "F">> has been added
+2018-05-20 11:49:08 [main:591] - [INFO]  
+ <"m2", "Movie", <"2017", "American", "8.8">> has been added
+2018-05-20 11:49:08 [main:591] - [WARN]  
+ /Edge = <"dm1", "MovieDirectorRelation", "-1", "d1", "m1", "Yes">/there are no undirected edges in this graph
+2018-05-20 11:49:08 [main:591] - [INFO]  
+ <"dm1", "MovieDirectorRelation", "-1.0", "d1m1", No> has been added
+2018-05-20 11:49:08 [main:591] - [INFO]  
+ <"dm2", "MovieDirectorRelation", "-1.0", "m2d1", No> has been added
+2018-05-20 11:49:08 [main:591] - [INFO]  
+ <"m1a1", "MovieActorRelation", "100.0", "a1m1", No> has been added
+2018-05-20 11:49:08 [main:591] - [INFO]  
+ <"m1a2", "MovieActorRelation", "50.0", "a2m1", No> has been added
+2018-05-20 11:49:08 [main:594] - [INFO]  
+ <"m1a3", "MovieActorRelation", "25.0", "a3m1", No> has been added
+2018-05-20 11:49:08 [main:595] - [INFO]  
+ <"m2a2", "MovieActorRelation", "90.0", "m2a2", No> has been added
+2018-05-20 11:49:08 [main:595] - [INFO]  
+ <"m2a3", "MovieActorRelation", "60.0", "m2a3", No> has been added
+2018-05-20 11:49:08 [main:602] - [INFO]  
+ <"m2a4", "MovieActorRelation", "40.0", "m2a4", No> has been added
+2018-05-20 11:49:08 [main:602] - [INFO]  
+ <"sa1", "SameMovieHyperEdge", a1,a2,a3> has been added
+2018-05-20 11:49:08 [main:603] - [INFO]  
+ <"sa2", "SameMovieHyperEdge", a2,a3,a4> has been added
+2018-05-20 11:49:08 [main:603] - [INFO]  
+ <"d1", "Director", <"20", "M">> has been added
+2018-05-20 11:49:08 [main:603] - [INFO]  
+ <"a1", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:604] - [INFO]  
+ <"m1", "Movie", <"2018", "China", "9.9">> has been added
+2018-05-20 11:49:08 [main:604] - [INFO]  
+ <"a2", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:604] - [INFO]  
+ <"a3", "Actor", <"23", "M">> has been added
+2018-05-20 11:49:08 [main:604] - [INFO]  
+ <"a4", "Actor", <"24", "F">> has been added
+2018-05-20 11:49:08 [main:604] - [INFO]  
+ <"m2", "Movie", <"2017", "American", "8.8">> has been added
+2018-05-20 11:49:08 [main:604] - [INFO]  
+ <"dm1", "MovieDirectorRelation", "-1.0", "d1m1", No> has been added
+2018-05-20 11:49:08 [main:604] - [INFO]  
+ <"dm2", "MovieDirectorRelation", "-1.0", "m2d1", No> has been added
+2018-05-20 11:49:08 [main:604] - [INFO]  
+ <"m1a1", "MovieActorRelation", "100.0", "a1m1", No> has been added
+2018-05-20 11:49:08 [main:604] - [INFO]  
+ <"m1a2", "MovieActorRelation", "50.0", "a2m1", No> has been added
+2018-05-20 11:49:08 [main:605] - [ERROR]  
+ /Edge = <"m1a3", "MovieActorRelation", "25", "m3", "a3", "No">/there are no enough vertices in this graph
+2018-05-20 11:49:08 [main:607] - [INFO]  
+ <"d1", "Director", <"20", "M">> has been added
+2018-05-20 11:49:08 [main:607] - [INFO]  
+ <"a1", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:607] - [INFO]  
+ <"m1", "Movie", <"2018", "China", "9.9">> has been added
+2018-05-20 11:49:08 [main:607] - [INFO]  
+ <"a2", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:607] - [INFO]  
+ <"a3", "Actor", <"23", "M">> has been added
+2018-05-20 11:49:08 [main:607] - [INFO]  
+ <"a4", "Actor", <"24", "F">> has been added
+2018-05-20 11:49:08 [main:608] - [INFO]  
+ <"m2", "Movie", <"2017", "American", "8.8">> has been added
+2018-05-20 11:49:08 [main:608] - [INFO]  
+ <"dm1", "MovieDirectorRelation", "-1.0", "d1m1", No> has been added
+2018-05-20 11:49:08 [main:608] - [INFO]  
+ <"dm2", "MovieDirectorRelation", "-1.0", "m2d1", No> has been added
+2018-05-20 11:49:08 [main:608] - [INFO]  
+ <"m1a1", "MovieActorRelation", "100.0", "a1m1", No> has been added
+2018-05-20 11:49:08 [main:609] - [INFO]  
+ <"m1a2", "MovieActorRelation", "50.0", "a2m1", No> has been added
+2018-05-20 11:49:08 [main:610] - [INFO]  
+ <"m1a3", "MovieActorRelation", "25.0", "a3m1", No> has been added
+2018-05-20 11:49:08 [main:610] - [INFO]  
+ <"m2a2", "MovieActorRelation", "90.0", "m2a2", No> has been added
+2018-05-20 11:49:08 [main:610] - [INFO]  
+ <"m2a3", "MovieActorRelation", "60.0", "m2a3", No> has been added
+2018-05-20 11:49:08 [main:610] - [INFO]  
+ <"m2a4", "MovieActorRelation", "40.0", "m2a4", No> has been added
+2018-05-20 11:49:08 [main:610] - [INFO]  
+ <"sa1", "SameMovieHyperEdge", a1,a2,a3> has been added
+2018-05-20 11:49:08 [main:611] - [INFO]  
+ <"sa2", "SameMovieHyperEdge", a2,a3,a4> has been added
+2018-05-20 11:49:08 [main:611] - [WARN]  
+ /Edge = <"d1a1", "MovieActorRelation", "100", "d1", "a1", "No">/MovieActorRelation can't consist of d1 and a1
+2018-05-20 11:49:08 [main:614] - [INFO]  
+ <"d1", "Director", <"20", "M">> has been added
+2018-05-20 11:49:08 [main:614] - [INFO]  
+ <"a1", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:614] - [INFO]  
+ <"m1", "Movie", <"2018", "China", "9.9">> has been added
+2018-05-20 11:49:08 [main:614] - [INFO]  
+ <"a2", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:614] - [INFO]  
+ <"a3", "Actor", <"23", "M">> has been added
+2018-05-20 11:49:08 [main:614] - [INFO]  
+ <"a4", "Actor", <"24", "F">> has been added
+2018-05-20 11:49:08 [main:614] - [INFO]  
+ <"m2", "Movie", <"2017", "American", "8.8">> has been added
+2018-05-20 11:49:08 [main:615] - [INFO]  
+ <"dm1", "MovieDirectorRelation", "-1.0", "d1m1", No> has been added
+2018-05-20 11:49:08 [main:615] - [INFO]  
+ <"dm2", "MovieDirectorRelation", "-1.0", "m2d1", No> has been added
+2018-05-20 11:49:08 [main:615] - [INFO]  
+ <"m1a1", "MovieActorRelation", "100.0", "a1m1", No> has been added
+2018-05-20 11:49:08 [main:615] - [INFO]  
+ <"m1a2", "MovieActorRelation", "50.0", "a2m1", No> has been added
+2018-05-20 11:49:08 [main:615] - [INFO]  
+ <"m1a3", "MovieActorRelation", "25.0", "a3m1", No> has been added
+2018-05-20 11:49:08 [main:616] - [INFO]  
+ <"m2a2", "MovieActorRelation", "90.0", "m2a2", No> has been added
+2018-05-20 11:49:08 [main:616] - [INFO]  
+ <"m2a3", "MovieActorRelation", "60.0", "m2a3", No> has been added
+2018-05-20 11:49:08 [main:616] - [INFO]  
+ <"m2a4", "MovieActorRelation", "40.0", "m2a4", No> has been added
+2018-05-20 11:49:08 [main:616] - [INFO]  
+ <"sa1", "SameMovieHyperEdge", a1,a2,a3> has been added
+2018-05-20 11:49:08 [main:616] - [INFO]  
+ <"sa2", "SameMovieHyperEdge", a2,a3,a4> has been added
+2018-05-20 11:49:08 [main:616] - [WARN]  
+ /Edge = <"d1a1", "MovieActorRelation", "100", "a1", "d1", "No">/MovieActorRelation can't consist of a1 and d1
+2018-05-20 11:49:08 [main:620] - [INFO]  
+ <"d1", "Director", <"20", "M">> has been added
+2018-05-20 11:49:08 [main:622] - [INFO]  
+ <"a1", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:623] - [INFO]  
+ <"m1", "Movie", <"2018", "China", "9.9">> has been added
+2018-05-20 11:49:08 [main:623] - [INFO]  
+ <"a2", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:623] - [INFO]  
+ <"a3", "Actor", <"23", "M">> has been added
+2018-05-20 11:49:08 [main:623] - [INFO]  
+ <"a4", "Actor", <"24", "F">> has been added
+2018-05-20 11:49:08 [main:623] - [INFO]  
+ <"m2", "Movie", <"2017", "American", "8.8">> has been added
+2018-05-20 11:49:08 [main:623] - [INFO]  
+ <"dm1", "MovieDirectorRelation", "-1.0", "d1m1", No> has been added
+2018-05-20 11:49:08 [main:623] - [INFO]  
+ <"dm2", "MovieDirectorRelation", "-1.0", "m2d1", No> has been added
+2018-05-20 11:49:08 [main:623] - [INFO]  
+ <"m1a1", "MovieActorRelation", "100.0", "a1m1", No> has been added
+2018-05-20 11:49:08 [main:623] - [INFO]  
+ <"m1a2", "MovieActorRelation", "50.0", "a2m1", No> has been added
+2018-05-20 11:49:08 [main:623] - [INFO]  
+ <"m1a3", "MovieActorRelation", "25.0", "a3m1", No> has been added
+2018-05-20 11:49:08 [main:624] - [INFO]  
+ <"m2a2", "MovieActorRelation", "90.0", "m2a2", No> has been added
+2018-05-20 11:49:08 [main:624] - [INFO]  
+ <"m2a3", "MovieActorRelation", "60.0", "m2a3", No> has been added
+2018-05-20 11:49:08 [main:624] - [INFO]  
+ <"m2a4", "MovieActorRelation", "40.0", "m2a4", No> has been added
+2018-05-20 11:49:08 [main:624] - [INFO]  
+ <"sa1", "SameMovieHyperEdge", a1,a2,a3> has been added
+2018-05-20 11:49:08 [main:624] - [INFO]  
+ <"sa2", "SameMovieHyperEdge", a2,a3,a4> has been added
+2018-05-20 11:49:08 [main:624] - [WARN]  
+ /Edge = <"da1", "MovieDirectorRelation", "-1", "d1", "a1", "No">/MovieDirectorRelation can't consist of d1 and a1
+2018-05-20 11:49:08 [main:627] - [INFO]  
+ <"d1", "Director", <"20", "M">> has been added
+2018-05-20 11:49:08 [main:627] - [INFO]  
+ <"a1", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:627] - [INFO]  
+ <"m1", "Movie", <"2018", "China", "9.9">> has been added
+2018-05-20 11:49:08 [main:627] - [INFO]  
+ <"a2", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:627] - [INFO]  
+ <"a3", "Actor", <"23", "M">> has been added
+2018-05-20 11:49:08 [main:627] - [INFO]  
+ <"a4", "Actor", <"24", "F">> has been added
+2018-05-20 11:49:08 [main:627] - [INFO]  
+ <"m2", "Movie", <"2017", "American", "8.8">> has been added
+2018-05-20 11:49:08 [main:627] - [ERROR]  
+ /Edge = <"dm1", "MovieDirectorRelation", "-1", "d1", "m1", "N">/It is an invalid commander
+2018-05-20 11:49:08 [main:631] - [INFO]  
+ <"d1", "Director", <"20", "M">> has been added
+2018-05-20 11:49:08 [main:632] - [INFO]  
+ <"a1", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:632] - [INFO]  
+ <"m1", "Movie", <"2018", "China", "9.9">> has been added
+2018-05-20 11:49:08 [main:632] - [INFO]  
+ <"a2", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:632] - [INFO]  
+ <"a3", "Actor", <"23", "M">> has been added
+2018-05-20 11:49:08 [main:632] - [INFO]  
+ <"a4", "Actor", <"24", "F">> has been added
+2018-05-20 11:49:08 [main:632] - [INFO]  
+ <"m2", "Movie", <"2017", "American", "8.8">> has been added
+2018-05-20 11:49:08 [main:632] - [INFO]  
+ <"dm1", "MovieDirectorRelation", "-1.0", "d1m1", No> has been added
+2018-05-20 11:49:08 [main:632] - [INFO]  
+ <"dm2", "MovieDirectorRelation", "-1.0", "m2d1", No> has been added
+2018-05-20 11:49:08 [main:632] - [INFO]  
+ <"m1a1", "MovieActorRelation", "100.0", "a1m1", No> has been added
+2018-05-20 11:49:08 [main:632] - [INFO]  
+ <"m1a2", "MovieActorRelation", "50.0", "a2m1", No> has been added
+2018-05-20 11:49:08 [main:633] - [INFO]  
+ <"m1a3", "MovieActorRelation", "25.0", "a3m1", No> has been added
+2018-05-20 11:49:08 [main:633] - [INFO]  
+ <"m2a2", "MovieActorRelation", "90.0", "m2a2", No> has been added
+2018-05-20 11:49:08 [main:633] - [INFO]  
+ <"m2a3", "MovieActorRelation", "60.0", "m2a3", No> has been added
+2018-05-20 11:49:08 [main:633] - [INFO]  
+ <"m2a4", "MovieActorRelation", "40.0", "m2a4", No> has been added
+2018-05-20 11:49:08 [main:633] - [ERROR]  
+ /HyperEdge = <"s+a1", "SameMovieHyperEdge", {"a1", "a2", "a3"}>/s+a1 is an invalid label
+2018-05-20 11:49:08 [main:635] - [INFO]  
+ <"d1", "Director", <"20", "M">> has been added
+2018-05-20 11:49:08 [main:636] - [INFO]  
+ <"a1", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:636] - [INFO]  
+ <"m1", "Movie", <"2018", "China", "9.9">> has been added
+2018-05-20 11:49:08 [main:636] - [INFO]  
+ <"a2", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:636] - [INFO]  
+ <"a3", "Actor", <"23", "M">> has been added
+2018-05-20 11:49:08 [main:636] - [INFO]  
+ <"a4", "Actor", <"24", "F">> has been added
+2018-05-20 11:49:08 [main:636] - [INFO]  
+ <"m2", "Movie", <"2017", "American", "8.8">> has been added
+2018-05-20 11:49:08 [main:636] - [INFO]  
+ <"dm1", "MovieDirectorRelation", "-1.0", "d1m1", No> has been added
+2018-05-20 11:49:08 [main:636] - [INFO]  
+ <"dm2", "MovieDirectorRelation", "-1.0", "m2d1", No> has been added
+2018-05-20 11:49:08 [main:636] - [INFO]  
+ <"m1a1", "MovieActorRelation", "100.0", "a1m1", No> has been added
+2018-05-20 11:49:08 [main:636] - [INFO]  
+ <"m1a2", "MovieActorRelation", "50.0", "a2m1", No> has been added
+2018-05-20 11:49:08 [main:637] - [INFO]  
+ <"m1a3", "MovieActorRelation", "25.0", "a3m1", No> has been added
+2018-05-20 11:49:08 [main:637] - [INFO]  
+ <"m2a2", "MovieActorRelation", "90.0", "m2a2", No> has been added
+2018-05-20 11:49:08 [main:637] - [INFO]  
+ <"m2a3", "MovieActorRelation", "60.0", "m2a3", No> has been added
+2018-05-20 11:49:08 [main:637] - [INFO]  
+ <"m2a4", "MovieActorRelation", "40.0", "m2a4", No> has been added
+2018-05-20 11:49:08 [main:637] - [ERROR]  
+ /HyperEdge = <"sa1", "SameMovie", {"a1", "a2", "a3"}>/SameMovie is an invalid edge type
+2018-05-20 11:49:08 [main:637] - [INFO]  
+ <"d1", "Director", <"20", "M">> has been added
+2018-05-20 11:49:08 [main:638] - [INFO]  
+ <"a1", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:638] - [INFO]  
+ <"m1", "Movie", <"2018", "China", "9.9">> has been added
+2018-05-20 11:49:08 [main:638] - [INFO]  
+ <"a2", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:638] - [INFO]  
+ <"a3", "Actor", <"23", "M">> has been added
+2018-05-20 11:49:08 [main:638] - [INFO]  
+ <"a4", "Actor", <"24", "F">> has been added
+2018-05-20 11:49:08 [main:638] - [INFO]  
+ <"m2", "Movie", <"2017", "American", "8.8">> has been added
+2018-05-20 11:49:08 [main:638] - [INFO]  
+ <"dm1", "MovieDirectorRelation", "-1.0", "d1m1", No> has been added
+2018-05-20 11:49:08 [main:638] - [INFO]  
+ <"dm2", "MovieDirectorRelation", "-1.0", "m2d1", No> has been added
+2018-05-20 11:49:08 [main:638] - [INFO]  
+ <"m1a1", "MovieActorRelation", "100.0", "a1m1", No> has been added
+2018-05-20 11:49:08 [main:638] - [INFO]  
+ <"m1a2", "MovieActorRelation", "50.0", "a2m1", No> has been added
+2018-05-20 11:49:08 [main:638] - [INFO]  
+ <"m1a3", "MovieActorRelation", "25.0", "a3m1", No> has been added
+2018-05-20 11:49:08 [main:639] - [INFO]  
+ <"m2a2", "MovieActorRelation", "90.0", "m2a2", No> has been added
+2018-05-20 11:49:08 [main:639] - [INFO]  
+ <"m2a3", "MovieActorRelation", "60.0", "m2a3", No> has been added
+2018-05-20 11:49:08 [main:639] - [INFO]  
+ <"m2a4", "MovieActorRelation", "40.0", "m2a4", No> has been added
+2018-05-20 11:49:08 [main:639] - [ERROR]  
+ /HyperEdge = <"sa1", "SameMovieHyperEdge", {"a1"}>/Not enough vertices to make a hyperedge
+2018-05-20 11:49:08 [main:643] - [INFO]  
+ <"d1", "Director", <"20", "M">> has been added
+2018-05-20 11:49:08 [main:643] - [INFO]  
+ <"a1", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:644] - [INFO]  
+ <"m1", "Movie", <"2018", "China", "9.9">> has been added
+2018-05-20 11:49:08 [main:644] - [INFO]  
+ <"a2", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:644] - [INFO]  
+ <"a3", "Actor", <"23", "M">> has been added
+2018-05-20 11:49:08 [main:644] - [INFO]  
+ <"a4", "Actor", <"24", "F">> has been added
+2018-05-20 11:49:08 [main:644] - [INFO]  
+ <"m2", "Movie", <"2017", "American", "8.8">> has been added
+2018-05-20 11:49:08 [main:645] - [INFO]  
+ <"dm1", "MovieDirectorRelation", "-1.0", "d1m1", No> has been added
+2018-05-20 11:49:08 [main:645] - [INFO]  
+ <"dm2", "MovieDirectorRelation", "-1.0", "m2d1", No> has been added
+2018-05-20 11:49:08 [main:645] - [INFO]  
+ <"m1a1", "MovieActorRelation", "100.0", "a1m1", No> has been added
+2018-05-20 11:49:08 [main:645] - [INFO]  
+ <"m1a2", "MovieActorRelation", "50.0", "a2m1", No> has been added
+2018-05-20 11:49:08 [main:656] - [INFO]  
+ <"m1a3", "MovieActorRelation", "25.0", "a3m1", No> has been added
+2018-05-20 11:49:08 [main:656] - [INFO]  
+ <"m2a2", "MovieActorRelation", "90.0", "m2a2", No> has been added
+2018-05-20 11:49:08 [main:656] - [INFO]  
+ <"m2a3", "MovieActorRelation", "60.0", "m2a3", No> has been added
+2018-05-20 11:49:08 [main:657] - [INFO]  
+ <"m2a4", "MovieActorRelation", "40.0", "m2a4", No> has been added
+2018-05-20 11:49:08 [main:659] - [ERROR]  
+ /HyperEdge = <"sa1", "SameMovieHyperEdge", {"a1", "a2", "m2"}>/Each vertex should be an actor
+2018-05-20 11:49:08 [main:660] - [INFO]  
+ <"d1", "Director", <"20", "M">> has been added
+2018-05-20 11:49:08 [main:660] - [INFO]  
+ <"a1", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:660] - [INFO]  
+ <"m1", "Movie", <"2018", "China", "9.9">> has been added
+2018-05-20 11:49:08 [main:660] - [INFO]  
+ <"a2", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:660] - [INFO]  
+ <"a3", "Actor", <"23", "M">> has been added
+2018-05-20 11:49:08 [main:660] - [INFO]  
+ <"a4", "Actor", <"24", "F">> has been added
+2018-05-20 11:49:08 [main:661] - [INFO]  
+ <"m2", "Movie", <"2017", "American", "8.8">> has been added
+2018-05-20 11:49:08 [main:661] - [INFO]  
+ <"dm1", "MovieDirectorRelation", "-1.0", "d1m1", No> has been added
+2018-05-20 11:49:08 [main:661] - [INFO]  
+ <"dm2", "MovieDirectorRelation", "-1.0", "m2d1", No> has been added
+2018-05-20 11:49:08 [main:662] - [INFO]  
+ <"m1a1", "MovieActorRelation", "100.0", "a1m1", No> has been added
+2018-05-20 11:49:08 [main:662] - [INFO]  
+ <"m1a2", "MovieActorRelation", "50.0", "a2m1", No> has been added
+2018-05-20 11:49:08 [main:662] - [INFO]  
+ <"m1a3", "MovieActorRelation", "25.0", "a3m1", No> has been added
+2018-05-20 11:49:08 [main:662] - [INFO]  
+ <"m2a2", "MovieActorRelation", "90.0", "m2a2", No> has been added
+2018-05-20 11:49:08 [main:662] - [INFO]  
+ <"m2a3", "MovieActorRelation", "60.0", "m2a3", No> has been added
+2018-05-20 11:49:08 [main:662] - [INFO]  
+ <"m2a4", "MovieActorRelation", "40.0", "m2a4", No> has been added
+2018-05-20 11:49:08 [main:662] - [ERROR]  
+ /HyperEdge = <"sa1", "SameMovieHyperEdge", {"a1", "a2", "a3"}/It is an invalid commander
+2018-05-20 11:49:08 [main:668] - [INFO]  
+ <"d1", "Director", <"20", "M">> has been added
+2018-05-20 11:49:08 [main:668] - [INFO]  
+ <"a1", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:668] - [ERROR]  
+ /Vertex = <"m1", "Movie">/There are not enough attributes
+2018-05-20 11:49:08 [main:670] - [INFO]  
+ <"d1", "Director", <"20", "M">> has been added
+2018-05-20 11:49:08 [main:670] - [INFO]  
+ <"a1", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:671] - [INFO]  
+ <"m1", "Movie", <"2018", "China", "9.9">> has been added
+2018-05-20 11:49:08 [main:671] - [INFO]  
+ <"a2", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:671] - [INFO]  
+ <"a3", "Actor", <"23", "M">> has been added
+2018-05-20 11:49:08 [main:671] - [INFO]  
+ <"a4", "Actor", <"24", "F">> has been added
+2018-05-20 11:49:08 [main:671] - [INFO]  
+ <"m2", "Movie", <"2017", "American", "8.8">> has been added
+2018-05-20 11:49:08 [main:671] - [INFO]  
+ <"dm1", "MovieDirectorRelation", "-1.0", "d1m1", No> has been added
+2018-05-20 11:49:08 [main:671] - [INFO]  
+ <"dm2", "MovieDirectorRelation", "-1.0", "m2d1", No> has been added
+2018-05-20 11:49:08 [main:671] - [INFO]  
+ <"m1a1", "MovieActorRelation", "100.0", "a1m1", No> has been added
+2018-05-20 11:49:08 [main:671] - [INFO]  
+ <"m1a2", "MovieActorRelation", "50.0", "a2m1", No> has been added
+2018-05-20 11:49:08 [main:671] - [INFO]  
+ <"m1a3", "MovieActorRelation", "25.0", "a3m1", No> has been added
+2018-05-20 11:49:08 [main:671] - [INFO]  
+ <"m2a2", "MovieActorRelation", "90.0", "m2a2", No> has been added
+2018-05-20 11:49:08 [main:671] - [INFO]  
+ <"m2a3", "MovieActorRelation", "60.0", "m2a3", No> has been added
+2018-05-20 11:49:08 [main:671] - [INFO]  
+ <"m2a4", "MovieActorRelation", "40.0", "m2a4", No> has been added
+2018-05-20 11:49:08 [main:672] - [INFO]  
+ <"sa1", "SameMovieHyperEdge", a1,a2,a3> has been added
+2018-05-20 11:49:08 [main:672] - [INFO]  
+ <"sa2", "SameMovieHyperEdge", a2,a3,a4> has been added
+2018-05-20 11:49:08 [main:674] - [INFO]  
+ <"d1", "Director", <"20", "M">> has been added
+2018-05-20 11:49:08 [main:674] - [INFO]  
+ <"m1", "Movie", <"2018", "China", "9.9">> has been added
+2018-05-20 11:49:08 [main:674] - [INFO]  
+ <"dm1", "MovieDirectorRelation", "-1.0", "d1m1", No> has been added
+2018-05-20 11:49:08 [main:674] - [INFO]  
+ <"m2", "Movie", <"2017", "American", "8.8">> has been added
+2018-05-20 11:49:08 [main:674] - [INFO]  
+ <"dm2", "MovieDirectorRelation", "-1.0", "m2d1", No> has been added
+2018-05-20 11:49:08 [main:674] - [INFO]  
+ <"a1", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:674] - [INFO]  
+ <"m1a1", "MovieActorRelation", "100.0", "a1m1", No> has been added
+2018-05-20 11:49:08 [main:675] - [INFO]  
+ <"a2", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:675] - [INFO]  
+ <"m1a2", "MovieActorRelation", "50.0", "a2m1", No> has been added
+2018-05-20 11:49:08 [main:675] - [INFO]  
+ <"a3", "Actor", <"23", "M">> has been added
+2018-05-20 11:49:08 [main:675] - [INFO]  
+ <"m1a3", "MovieActorRelation", "25.0", "a3m1", No> has been added
+2018-05-20 11:49:08 [main:675] - [INFO]  
+ <"m2a2", "MovieActorRelation", "90.0", "m2a2", No> has been added
+2018-05-20 11:49:08 [main:675] - [INFO]  
+ <"m2a3", "MovieActorRelation", "60.0", "m2a3", No> has been added
+2018-05-20 11:49:08 [main:675] - [INFO]  
+ <"a4", "Actor", <"24", "F">> has been added
+2018-05-20 11:49:08 [main:675] - [INFO]  
+ <"m2a4", "MovieActorRelation", "40.0", "m2a4", No> has been added
+2018-05-20 11:49:08 [main:675] - [INFO]  
+ <"sa1", "SameMovieHyperEdge", a1,a2,a3> has been added
+2018-05-20 11:49:08 [main:675] - [INFO]  
+ <"sa2", "SameMovieHyperEdge", a2,a3,a4> has been added
+2018-05-20 11:49:08 [main:677] - [INFO]  
+ <"d1", "Director", <"20", "M">> has been added
+2018-05-20 11:49:08 [main:677] - [INFO]  
+ <"m1", "Movie", <"2018", "China", "9.9">> has been added
+2018-05-20 11:49:08 [main:677] - [INFO]  
+ <"dm1", "MovieDirectorRelation", "-1.0", "d1m1", No> has been added
+2018-05-20 11:49:08 [main:677] - [INFO]  
+ <"m2", "Movie", <"2017", "American", "8.8">> has been added
+2018-05-20 11:49:08 [main:677] - [INFO]  
+ <"dm2", "MovieDirectorRelation", "-1.0", "m2d1", No> has been added
+2018-05-20 11:49:08 [main:678] - [INFO]  
+ <"a1", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:678] - [INFO]  
+ <"m1a1", "MovieActorRelation", "100.0", "a1m1", No> has been added
+2018-05-20 11:49:08 [main:678] - [INFO]  
+ <"a2", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:678] - [INFO]  
+ <"m1a2", "MovieActorRelation", "50.0", "a2m1", No> has been added
+2018-05-20 11:49:08 [main:678] - [INFO]  
+ <"a3", "Actor", <"23", "M">> has been added
+2018-05-20 11:49:08 [main:678] - [INFO]  
+ <"m1a3", "MovieActorRelation", "25.0", "a3m1", No> has been added
+2018-05-20 11:49:08 [main:678] - [INFO]  
+ <"m2a2", "MovieActorRelation", "90.0", "m2a2", No> has been added
+2018-05-20 11:49:08 [main:678] - [INFO]  
+ <"m2a3", "MovieActorRelation", "60.0", "m2a3", No> has been added
+2018-05-20 11:49:08 [main:678] - [INFO]  
+ <"a4", "Actor", <"24", "F">> has been added
+2018-05-20 11:49:08 [main:678] - [INFO]  
+ <"m2a4", "MovieActorRelation", "40.0", "m2a4", No> has been added
+2018-05-20 11:49:08 [main:678] - [INFO]  
+ <"sa1", "SameMovieHyperEdge", a1,a2,a3> has been added
+2018-05-20 11:49:08 [main:678] - [INFO]  
+ <"sa2", "SameMovieHyperEdge", a2,a3,a4> has been added
+2018-05-20 11:49:08 [main:680] - [INFO]  
+ <"v1", "Director", <"20", "M">> has been added
+2018-05-20 11:49:08 [main:680] - [INFO]  
+ <"v2", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:680] - [INFO]  
+ <"v3", "Movie", <"2018", "China", "9.9">> has been added
+2018-05-20 11:49:08 [main:681] - [INFO]  
+ <"d1", "Director", <"20", "M">> has been added
+2018-05-20 11:49:08 [main:682] - [INFO]  
+ <"m1", "Movie", <"2018", "China", "9.9">> has been added
+2018-05-20 11:49:08 [main:682] - [INFO]  
+ <"dm1", "MovieDirectorRelation", "-1.0", "d1m1", No> has been added
+2018-05-20 11:49:08 [main:682] - [INFO]  
+ <"m2", "Movie", <"2017", "American", "8.8">> has been added
+2018-05-20 11:49:08 [main:682] - [INFO]  
+ <"dm2", "MovieDirectorRelation", "-1.0", "m2d1", No> has been added
+2018-05-20 11:49:08 [main:682] - [INFO]  
+ <"a1", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:682] - [INFO]  
+ <"m1a1", "MovieActorRelation", "100.0", "a1m1", No> has been added
+2018-05-20 11:49:08 [main:682] - [INFO]  
+ <"a2", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:682] - [INFO]  
+ <"m1a2", "MovieActorRelation", "50.0", "a2m1", No> has been added
+2018-05-20 11:49:08 [main:682] - [INFO]  
+ <"a3", "Actor", <"23", "M">> has been added
+2018-05-20 11:49:08 [main:682] - [INFO]  
+ <"m1a3", "MovieActorRelation", "25.0", "a3m1", No> has been added
+2018-05-20 11:49:08 [main:682] - [INFO]  
+ <"m2a2", "MovieActorRelation", "90.0", "m2a2", No> has been added
+2018-05-20 11:49:08 [main:682] - [INFO]  
+ <"m2a3", "MovieActorRelation", "60.0", "m2a3", No> has been added
+2018-05-20 11:49:08 [main:682] - [INFO]  
+ <"a4", "Actor", <"24", "F">> has been added
+2018-05-20 11:49:08 [main:682] - [INFO]  
+ <"m2a4", "MovieActorRelation", "40.0", "m2a4", No> has been added
+2018-05-20 11:49:08 [main:682] - [INFO]  
+ <"sa1", "SameMovieHyperEdge", a1,a2,a3> has been added
+2018-05-20 11:49:08 [main:682] - [INFO]  
+ <"sa2", "SameMovieHyperEdge", a2,a3,a4> has been added
+2018-05-20 11:49:08 [main:683] - [INFO]  
+ <"d1", "Director", <"20", "M">> has been added
+2018-05-20 11:49:08 [main:683] - [INFO]  
+ <"m1", "Movie", <"2018", "China", "9.9">> has been added
+2018-05-20 11:49:08 [main:683] - [INFO]  
+ <"dm1", "MovieDirectorRelation", "-1.0", "d1m1", No> has been added
+2018-05-20 11:49:08 [main:683] - [INFO]  
+ <"m2", "Movie", <"2017", "American", "8.8">> has been added
+2018-05-20 11:49:08 [main:683] - [INFO]  
+ <"dm2", "MovieDirectorRelation", "-1.0", "m2d1", No> has been added
+2018-05-20 11:49:08 [main:683] - [INFO]  
+ <"a1", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:683] - [INFO]  
+ <"m1a1", "MovieActorRelation", "100.0", "a1m1", No> has been added
+2018-05-20 11:49:08 [main:683] - [INFO]  
+ <"a2", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:683] - [INFO]  
+ <"m1a2", "MovieActorRelation", "50.0", "a2m1", No> has been added
+2018-05-20 11:49:08 [main:683] - [INFO]  
+ <"a3", "Actor", <"23", "M">> has been added
+2018-05-20 11:49:08 [main:683] - [INFO]  
+ <"m1a3", "MovieActorRelation", "25.0", "a3m1", No> has been added
+2018-05-20 11:49:08 [main:684] - [INFO]  
+ <"m2a2", "MovieActorRelation", "90.0", "m2a2", No> has been added
+2018-05-20 11:49:08 [main:684] - [INFO]  
+ <"m2a3", "MovieActorRelation", "60.0", "m2a3", No> has been added
+2018-05-20 11:49:08 [main:684] - [INFO]  
+ <"a4", "Actor", <"24", "F">> has been added
+2018-05-20 11:49:08 [main:684] - [INFO]  
+ <"m2a4", "MovieActorRelation", "40.0", "m2a4", No> has been added
+2018-05-20 11:49:08 [main:684] - [INFO]  
+ <"sa1", "SameMovieHyperEdge", a1,a2,a3> has been added
+2018-05-20 11:49:08 [main:684] - [INFO]  
+ <"sa2", "SameMovieHyperEdge", a2,a3,a4> has been added
+2018-05-20 11:49:08 [main:684] - [INFO]  
+ <"d1", "Director", <"20", "M">> has been removed
+2018-05-20 11:49:08 [main:687] - [INFO]  
+ <"d1", "Director", <"20", "M">> has been added
+2018-05-20 11:49:08 [main:687] - [INFO]  
+ <"m1", "Movie", <"2018", "China", "9.9">> has been added
+2018-05-20 11:49:08 [main:687] - [INFO]  
+ <"dm1", "MovieDirectorRelation", "-1.0", "d1m1", No> has been added
+2018-05-20 11:49:08 [main:687] - [INFO]  
+ <"m2", "Movie", <"2017", "American", "8.8">> has been added
+2018-05-20 11:49:08 [main:687] - [INFO]  
+ <"dm2", "MovieDirectorRelation", "-1.0", "m2d1", No> has been added
+2018-05-20 11:49:08 [main:687] - [INFO]  
+ <"a1", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:687] - [INFO]  
+ <"m1a1", "MovieActorRelation", "100.0", "a1m1", No> has been added
+2018-05-20 11:49:08 [main:687] - [INFO]  
+ <"a2", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:687] - [INFO]  
+ <"m1a2", "MovieActorRelation", "50.0", "a2m1", No> has been added
+2018-05-20 11:49:08 [main:687] - [INFO]  
+ <"a3", "Actor", <"23", "M">> has been added
+2018-05-20 11:49:08 [main:687] - [INFO]  
+ <"m1a3", "MovieActorRelation", "25.0", "a3m1", No> has been added
+2018-05-20 11:49:08 [main:687] - [INFO]  
+ <"m2a2", "MovieActorRelation", "90.0", "m2a2", No> has been added
+2018-05-20 11:49:08 [main:687] - [INFO]  
+ <"m2a3", "MovieActorRelation", "60.0", "m2a3", No> has been added
+2018-05-20 11:49:08 [main:687] - [INFO]  
+ <"a4", "Actor", <"24", "F">> has been added
+2018-05-20 11:49:08 [main:687] - [INFO]  
+ <"m2a4", "MovieActorRelation", "40.0", "m2a4", No> has been added
+2018-05-20 11:49:08 [main:687] - [INFO]  
+ <"sa1", "SameMovieHyperEdge", a1,a2,a3> has been added
+2018-05-20 11:49:08 [main:687] - [INFO]  
+ <"sa2", "SameMovieHyperEdge", a2,a3,a4> has been added
+2018-05-20 11:49:08 [main:687] - [INFO]  
+ <"m1a1", "MovieActorRelation", "100.0", "a1m1", No> has been removed
+2018-05-20 11:49:08 [main:687] - [INFO]  
+ <"m1a1", "MovieActorRelation", "100.0", "a1m1", No> has been removed
+2018-05-20 11:49:08 [main:689] - [INFO]  
+ <"v1", "Director", <"20", "M">> has been added
+2018-05-20 11:49:08 [main:689] - [INFO]  
+ <"v2", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:689] - [INFO]  
+ <"v3", "Movie", <"2018", "China", "9.9">> has been added
+2018-05-20 11:49:08 [main:690] - [INFO]  
+ <"d1", "Director", <"20", "M">> has been added
+2018-05-20 11:49:08 [main:690] - [INFO]  
+ <"m1", "Movie", <"2018", "China", "9.9">> has been added
+2018-05-20 11:49:08 [main:690] - [INFO]  
+ <"dm1", "MovieDirectorRelation", "-1.0", "d1m1", No> has been added
+2018-05-20 11:49:08 [main:690] - [INFO]  
+ <"m2", "Movie", <"2017", "American", "8.8">> has been added
+2018-05-20 11:49:08 [main:690] - [INFO]  
+ <"dm2", "MovieDirectorRelation", "-1.0", "m2d1", No> has been added
+2018-05-20 11:49:08 [main:690] - [INFO]  
+ <"a1", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:690] - [INFO]  
+ <"m1a1", "MovieActorRelation", "100.0", "a1m1", No> has been added
+2018-05-20 11:49:08 [main:690] - [INFO]  
+ <"a2", "Actor", <"21", "F">> has been added
+2018-05-20 11:49:08 [main:691] - [INFO]  
+ <"m1a2", "MovieActorRelation", "50.0", "a2m1", No> has been added
+2018-05-20 11:49:08 [main:691] - [INFO]  
+ <"a3", "Actor", <"23", "M">> has been added
+2018-05-20 11:49:08 [main:691] - [INFO]  
+ <"m1a3", "MovieActorRelation", "25.0", "a3m1", No> has been added
+2018-05-20 11:49:08 [main:691] - [INFO]  
+ <"m2a2", "MovieActorRelation", "90.0", "m2a2", No> has been added
+2018-05-20 11:49:08 [main:691] - [INFO]  
+ <"m2a3", "MovieActorRelation", "60.0", "m2a3", No> has been added
+2018-05-20 11:49:08 [main:691] - [INFO]  
+ <"a4", "Actor", <"24", "F">> has been added
+2018-05-20 11:49:08 [main:691] - [INFO]  
+ <"m2a4", "MovieActorRelation", "40.0", "m2a4", No> has been added
+2018-05-20 11:49:08 [main:691] - [INFO]  
+ <"sa1", "SameMovieHyperEdge", a1,a2,a3> has been added
+2018-05-20 11:49:08 [main:691] - [INFO]  
+ <"sa2", "SameMovieHyperEdge", a2,a3,a4> has been added
+2018-05-20 11:49:08 [main:698] - [ERROR]  
+ /Graph = "GraphPoet"/It is an invalid commander
+2018-05-20 11:49:08 [main:698] - [ERROR]  
+ /GraphType = "MovieGraph"/It is an invalid commander
+2018-05-20 11:49:08 [main:699] - [ERROR]  
+ /GraphType = <GraphPoet>/It is an invalid commander
+2018-05-20 11:49:08 [main:699] - [ERROR]  
+ /GraphName = "GraphPoetTest."/GraphPoetTest. is an invalid label
+2018-05-20 11:49:08 [main:699] - [ERROR]  
+ /GraphName = (GraphPoetTest)/It is an invalid commander
+2018-05-20 11:49:08 [main:700] - [ERROR]  
+ /VertexType = "Person"/Person is an invalid vertex type
+2018-05-20 11:49:08 [main:704] - [ERROR]  
+ /VertexType = ?Word?/It is an invalid commander
+2018-05-20 11:49:08 [main:705] - [ERROR]  
+ /Vertex = <"v1.", "Word">/v1. is an invalid label
+2018-05-20 11:49:08 [main:706] - [ERROR]  
+ /Vertex = <"v1", "Actor">/Actor is an invalid vertex type in this graph
+2018-05-20 11:49:08 [main:706] - [INFO]  
+ <"v1", "Word"> has been added
+2018-05-20 11:49:08 [main:706] - [INFO]  
+ <"v2", "Word"> has been added
+2018-05-20 11:49:08 [main:706] - [INFO]  
+ <"v3", "Word"> has been added
+2018-05-20 11:49:08 [main:706] - [INFO]  
+ <"v4", "Word"> has been added
+2018-05-20 11:49:08 [main:706] - [ERROR]  
+ /Vertex = <"v5", "Word">>/It is an invalid commander
+2018-05-20 11:49:08 [main:709] - [INFO]  
+ <"v1", "Word"> has been added
+2018-05-20 11:49:08 [main:710] - [INFO]  
+ <"v2", "Word"> has been added
+2018-05-20 11:49:08 [main:710] - [INFO]  
+ <"v3", "Word"> has been added
+2018-05-20 11:49:08 [main:710] - [INFO]  
+ <"v4", "Word"> has been added
+2018-05-20 11:49:08 [main:710] - [INFO]  
+ <"v5", "Word"> has been added
+2018-05-20 11:49:08 [main:710] - [ERROR]  
+ /EdgeType = "NetworkConnection"/NetworkConnection is an invalid edge type
+2018-05-20 11:49:08 [main:710] - [INFO]  
+ <"v1", "Word"> has been added
+2018-05-20 11:49:08 [main:710] - [INFO]  
+ <"v2", "Word"> has been added
+2018-05-20 11:49:08 [main:710] - [INFO]  
+ <"v3", "Word"> has been added
+2018-05-20 11:49:08 [main:710] - [INFO]  
+ <"v4", "Word"> has been added
+2018-05-20 11:49:08 [main:710] - [INFO]  
+ <"v5", "Word"> has been added
+2018-05-20 11:49:08 [main:710] - [ERROR]  
+ /EdgeType = "WordNeighborhoodEdge"./It is an invalid commander
+2018-05-20 11:49:08 [main:711] - [INFO]  
+ <"v1", "Word"> has been added
+2018-05-20 11:49:08 [main:711] - [INFO]  
+ <"v2", "Word"> has been added
+2018-05-20 11:49:08 [main:711] - [INFO]  
+ <"v3", "Word"> has been added
+2018-05-20 11:49:08 [main:711] - [INFO]  
+ <"v4", "Word"> has been added
+2018-05-20 11:49:08 [main:711] - [INFO]  
+ <"v5", "Word"> has been added
+2018-05-20 11:49:08 [main:711] - [ERROR]  
+ /Edge = <"E1.", "WordNeighborhoodEdge", "1", "v1", "v2", "Yes">/E1. is an invalid label
+2018-05-20 11:49:08 [main:713] - [INFO]  
+ <"v1", "Word"> has been added
+2018-05-20 11:49:08 [main:713] - [INFO]  
+ <"v2", "Word"> has been added
+2018-05-20 11:49:08 [main:713] - [INFO]  
+ <"v3", "Word"> has been added
+2018-05-20 11:49:08 [main:713] - [INFO]  
+ <"v4", "Word"> has been added
+2018-05-20 11:49:08 [main:713] - [INFO]  
+ <"v5", "Word"> has been added
+2018-05-20 11:49:08 [main:713] - [ERROR]  
+ /Edge = <"E1", "MovieActorRelation", "1", "v1", "v2", "Yes">/MovieActorRelation is an invalid edge type
+2018-05-20 11:49:08 [main:713] - [INFO]  
+ <"v1", "Word"> has been added
+2018-05-20 11:49:08 [main:713] - [INFO]  
+ <"v2", "Word"> has been added
+2018-05-20 11:49:08 [main:713] - [INFO]  
+ <"v3", "Word"> has been added
+2018-05-20 11:49:08 [main:714] - [INFO]  
+ <"v4", "Word"> has been added
+2018-05-20 11:49:08 [main:714] - [INFO]  
+ <"v5", "Word"> has been added
+2018-05-20 11:49:08 [main:714] - [ERROR]  
+ /Edge = <"E1", "WordNeighborhoodEdge", "-1", "v1", "v2", "Yes">/-1 is an invalid weight
+2018-05-20 11:49:08 [main:714] - [INFO]  
+ <"v1", "Word"> has been added
+2018-05-20 11:49:08 [main:714] - [INFO]  
+ <"v2", "Word"> has been added
+2018-05-20 11:49:08 [main:714] - [INFO]  
+ <"v3", "Word"> has been added
+2018-05-20 11:49:08 [main:714] - [INFO]  
+ <"v4", "Word"> has been added
+2018-05-20 11:49:08 [main:714] - [INFO]  
+ <"v5", "Word"> has been added
+2018-05-20 11:49:08 [main:714] - [INFO]  
+ <"E1", "WordNeighborhoodEdge", "1.0", "v1", "v2", Yes> has been added
+2018-05-20 11:49:08 [main:714] - [ERROR]  
+ /Edge = <"E2", "WordNeighborhoodEdge", "1.1", "v2", "v3", "Yes">/1.1 is an invalid weight
+2018-05-20 11:49:08 [main:718] - [INFO]  
+ <"v1", "Word"> has been added
+2018-05-20 11:49:08 [main:718] - [INFO]  
+ <"v2", "Word"> has been added
+2018-05-20 11:49:08 [main:718] - [INFO]  
+ <"v3", "Word"> has been added
+2018-05-20 11:49:08 [main:718] - [INFO]  
+ <"v4", "Word"> has been added
+2018-05-20 11:49:08 [main:718] - [INFO]  
+ <"v5", "Word"> has been added
+2018-05-20 11:49:08 [main:718] - [INFO]  
+ <"E1", "WordNeighborhoodEdge", "1.0", "v1", "v2", Yes> has been added
+2018-05-20 11:49:08 [main:718] - [INFO]  
+ <"E2", "WordNeighborhoodEdge", "1.0", "v2", "v3", Yes> has been added
+2018-05-20 11:49:08 [main:718] - [ERROR]  
+ /Edge = <"E3", "WordNeighborhoodEdge", "1", "v3", "v4", "No">/there are no undirected edges in this graph
+2018-05-20 11:49:08 [main:719] - [INFO]  
+ <"v1", "Word"> has been added
+2018-05-20 11:49:08 [main:719] - [INFO]  
+ <"v2", "Word"> has been added
+2018-05-20 11:49:08 [main:719] - [INFO]  
+ <"v3", "Word"> has been added
+2018-05-20 11:49:08 [main:719] - [INFO]  
+ <"v4", "Word"> has been added
+2018-05-20 11:49:08 [main:719] - [INFO]  
+ <"v5", "Word"> has been added
+2018-05-20 11:49:08 [main:719] - [INFO]  
+ <"E1", "WordNeighborhoodEdge", "1.0", "v1", "v2", Yes> has been added
+2018-05-20 11:49:08 [main:719] - [INFO]  
+ <"E2", "WordNeighborhoodEdge", "1.0", "v2", "v3", Yes> has been added
+2018-05-20 11:49:08 [main:720] - [INFO]  
+ <"E3", "WordNeighborhoodEdge", "1.0", "v3", "v4", Yes> has been added
+2018-05-20 11:49:08 [main:720] - [INFO]  
+ <"E4", "WordNeighborhoodEdge", "1.0", "v4", "v5", Yes> has been added
+2018-05-20 11:49:08 [main:720] - [INFO]  
+ <"E5", "WordNeighborhoodEdge", "1.0", "v5", "v1", Yes> has been added
+2018-05-20 11:49:08 [main:720] - [ERROR]  
+ /Edge = <"E5", "WordNeighborhoodEdge", "1", "v5", "v6", "Yes">/not enough vertices
+2018-05-20 11:49:08 [main:723] - [INFO]  
+ <"v1", "Word"> has been added
+2018-05-20 11:49:08 [main:723] - [INFO]  
+ <"v2", "Word"> has been added
+2018-05-20 11:49:08 [main:723] - [INFO]  
+ <"v3", "Word"> has been added
+2018-05-20 11:49:08 [main:723] - [INFO]  
+ <"v4", "Word"> has been added
+2018-05-20 11:49:08 [main:723] - [INFO]  
+ <"v5", "Word"> has been added
+2018-05-20 11:49:08 [main:723] - [ERROR]  
+ /Edge = <"E1", "WordNeighborhoodEdge", "1", "v1", "v2", "Yes")/It is an invalid commander
+2018-05-20 11:49:08 [main:724] - [INFO]  
+ <"v1", "Word"> has been added
+2018-05-20 11:49:08 [main:724] - [INFO]  
+ <"v2", "Word"> has been added
+2018-05-20 11:49:08 [main:724] - [INFO]  
+ <"v3", "Word"> has been added
+2018-05-20 11:49:08 [main:724] - [INFO]  
+ <"v4", "Word"> has been added
+2018-05-20 11:49:08 [main:724] - [INFO]  
+ <"v5", "Word"> has been added
+2018-05-20 11:49:08 [main:724] - [INFO]  
+ <"E1", "WordNeighborhoodEdge", "1.0", "v1", "v2", Yes> has been added
+2018-05-20 11:49:08 [main:724] - [INFO]  
+ <"E2", "WordNeighborhoodEdge", "1.0", "v2", "v3", Yes> has been added
+2018-05-20 11:49:08 [main:724] - [INFO]  
+ <"E3", "WordNeighborhoodEdge", "1.0", "v3", "v4", Yes> has been added
+2018-05-20 11:49:08 [main:724] - [INFO]  
+ <"E4", "WordNeighborhoodEdge", "1.0", "v4", "v5", Yes> has been added
+2018-05-20 11:49:08 [main:724] - [INFO]  
+ <"E5", "WordNeighborhoodEdge", "1.0", "v5", "v1", Yes> has been added
+2018-05-20 11:49:08 [main:724] - [WARN]  
+ /HyperEdge = /There isn't a hyperedge in this graph
+2018-05-20 11:49:08 [main:724] - [ERROR]  
+ /Graph = "GraphPoet"/It is an invalid commander
+2018-05-20 11:49:08 [main:725] - [ERROR]  
+ /Graph = "GraphPoet"/It is an invalid commander
+2018-05-20 11:49:08 [main:725] - [ERROR]  
+ /Graph = "GraphPoet"/It is an invalid commander
+2018-05-20 11:49:08 [main:731] - [INFO]  
+ <"v1", "Word"> has been added
+2018-05-20 11:49:08 [main:731] - [INFO]  
+ <"v2", "Word"> has been added
+2018-05-20 11:49:08 [main:731] - [INFO]  
+ <"v3", "Word"> has been added
+2018-05-20 11:49:08 [main:731] - [INFO]  
+ <"v4", "Word"> has been added
+2018-05-20 11:49:08 [main:731] - [INFO]  
+ <"v5", "Word"> has been added
+2018-05-20 11:49:08 [main:731] - [INFO]  
+ <"E1", "WordNeighborhoodEdge", "1.0", "v1", "v2", Yes> has been added
+2018-05-20 11:49:08 [main:731] - [INFO]  
+ <"E2", "WordNeighborhoodEdge", "1.0", "v2", "v3", Yes> has been added
+2018-05-20 11:49:08 [main:731] - [INFO]  
+ <"E3", "WordNeighborhoodEdge", "1.0", "v3", "v4", Yes> has been added
+2018-05-20 11:49:08 [main:731] - [INFO]  
+ <"E4", "WordNeighborhoodEdge", "1.0", "v4", "v5", Yes> has been added
+2018-05-20 11:49:08 [main:731] - [INFO]  
+ <"E5", "WordNeighborhoodEdge", "1.0", "v5", "v1", Yes> has been added
+2018-05-20 11:49:08 [main:732] - [INFO]  
+ <"B", "Word"> has been added
+2018-05-20 11:49:08 [main:732] - [INFO]  
+ <"C", "Word"> has been added
+2018-05-20 11:49:08 [main:732] - [INFO]  
+ <"E1", "WordNeighborhoodEdge", "1.0", "B", "C", Yes> has been added
+2018-05-20 11:49:08 [main:732] - [INFO]  
+ <"E2", "WordNeighborhoodEdge", "1.0", "B", "C", Yes> has been added
+2018-05-20 11:49:08 [main:732] - [INFO]  
+ <"A", "Word"> has been added
+2018-05-20 11:49:08 [main:732] - [INFO]  
+ <"E3", "WordNeighborhoodEdge", "1.0", "A", "B", Yes> has been added
+2018-05-20 11:49:08 [main:732] - [INFO]  
+ <"E4", "WordNeighborhoodEdge", "1.0", "B", "B", Yes> has been added
+2018-05-20 11:49:08 [main:733] - [INFO]  
+ <"A", "Word"> has been added
+2018-05-20 11:49:08 [main:733] - [INFO]  
+ <"B", "Word"> has been added
+2018-05-20 11:49:08 [main:733] - [INFO]  
+ <"E1", "WordNeighborhoodEdge", "1.0", "A", "B", Yes> has been added
+2018-05-20 11:49:08 [main:733] - [INFO]  
+ <"C", "Word"> has been added
+2018-05-20 11:49:08 [main:733] - [INFO]  
+ <"E2", "WordNeighborhoodEdge", "1.0", "B", "C", Yes> has been added
+2018-05-20 11:49:08 [main:733] - [INFO]  
+ <"E3", "WordNeighborhoodEdge", "1.0", "A", "B", Yes> has been added
+2018-05-20 11:49:08 [main:733] - [INFO]  
+ <"E1_1", "WordNeighborhoodEdge", "1.0", "A", "C", Yes> has been added
+2018-05-20 11:49:08 [main:738] - [INFO]  
+ <"A", "Word"> has been added
+2018-05-20 11:49:08 [main:738] - [INFO]  
+ <"B", "Word"> has been added
+2018-05-20 11:49:08 [main:738] - [INFO]  
+ <"C", "Word"> has been added
+2018-05-20 11:49:08 [main:738] - [INFO]  
+ <"B", "Word"> has been added
+2018-05-20 11:49:08 [main:738] - [INFO]  
+ <"C", "Word"> has been added
+2018-05-20 11:49:08 [main:738] - [INFO]  
+ <"E1", "WordNeighborhoodEdge", "1.0", "B", "C", Yes> has been added
+2018-05-20 11:49:08 [main:738] - [INFO]  
+ <"E2", "WordNeighborhoodEdge", "1.0", "B", "C", Yes> has been added
+2018-05-20 11:49:08 [main:738] - [INFO]  
+ <"A", "Word"> has been added
+2018-05-20 11:49:08 [main:738] - [INFO]  
+ <"E3", "WordNeighborhoodEdge", "1.0", "A", "B", Yes> has been added
+2018-05-20 11:49:08 [main:738] - [INFO]  
+ <"E4", "WordNeighborhoodEdge", "1.0", "B", "B", Yes> has been added
+2018-05-20 11:49:08 [main:739] - [INFO]  
+ <"B", "Word"> has been added
+2018-05-20 11:49:08 [main:739] - [INFO]  
+ <"C", "Word"> has been added
+2018-05-20 11:49:08 [main:739] - [INFO]  
+ <"E1", "WordNeighborhoodEdge", "1.0", "B", "C", Yes> has been added
+2018-05-20 11:49:08 [main:739] - [INFO]  
+ <"E2", "WordNeighborhoodEdge", "1.0", "B", "C", Yes> has been added
+2018-05-20 11:49:08 [main:739] - [INFO]  
+ <"A", "Word"> has been added
+2018-05-20 11:49:08 [main:739] - [INFO]  
+ <"E3", "WordNeighborhoodEdge", "1.0", "A", "B", Yes> has been added
+2018-05-20 11:49:08 [main:739] - [INFO]  
+ <"E4", "WordNeighborhoodEdge", "1.0", "A", "C", Yes> has been added
+2018-05-20 11:49:08 [main:739] - [INFO]  
+ <"B", "Word"> has been removed
+2018-05-20 11:49:08 [main:739] - [INFO]  
+ <"B", "Word"> has been added
+2018-05-20 11:49:08 [main:739] - [INFO]  
+ <"C", "Word"> has been added
+2018-05-20 11:49:08 [main:739] - [INFO]  
+ <"E1", "WordNeighborhoodEdge", "1.0", "B", "C", Yes> has been added
+2018-05-20 11:49:08 [main:739] - [INFO]  
+ <"E2", "WordNeighborhoodEdge", "1.0", "B", "C", Yes> has been added
+2018-05-20 11:49:08 [main:739] - [INFO]  
+ <"A", "Word"> has been added
+2018-05-20 11:49:08 [main:739] - [INFO]  
+ <"E3", "WordNeighborhoodEdge", "1.0", "A", "B", Yes> has been added
+2018-05-20 11:49:08 [main:739] - [INFO]  
+ <"E4", "WordNeighborhoodEdge", "1.0", "B", "B", Yes> has been added
+2018-05-20 11:49:08 [main:740] - [INFO]  
+ <"E1", "WordNeighborhoodEdge", "1.0", "B", "C", Yes> has been removed
+2018-05-20 11:49:08 [main:740] - [INFO]  
+ <"E1", "WordNeighborhoodEdge", "1.0", "B", "C", Yes> has been removed
+2018-05-20 11:49:08 [main:740] - [INFO]  
+ <"A", "Word"> has been added
+2018-05-20 11:49:08 [main:740] - [INFO]  
+ <"B", "Word"> has been added
+2018-05-20 11:49:08 [main:740] - [INFO]  
+ <"C", "Word"> has been added
+2018-05-20 11:49:08 [main:740] - [INFO]  
+ <"A", "Word"> has been added
+2018-05-20 11:49:08 [main:740] - [INFO]  
+ <"B", "Word"> has been added
+2018-05-20 11:49:08 [main:740] - [INFO]  
+ <"E1", "WordNeighborhoodEdge", "1.0", "A", "B", Yes> has been added
+2018-05-20 11:49:08 [main:740] - [INFO]  
+ <"E3", "WordNeighborhoodEdge", "1.0", "A", "B", Yes> has been added
+2018-05-20 11:49:08 [main:740] - [INFO]  
+ <"E4", "WordNeighborhoodEdge", "1.0", "B", "B", Yes> has been added

@@ -1,0 +1,22 @@
+apply plugin: 'java'
+apply plugin: 'application'
+mainClassName = 'P3.FriendshipGraph'
+sourceSets {
+   main {
+      java {
+         srcDir '.'
+      }
+   }
+   test{
+      java{
+         srcDir '../../test/P3'
+       }
+   }
+}
+repositories {
+    mavenLocal()
+    mavenCentral()
+}
+dependencies {
+    compile "junit:junit:4.+"
+}

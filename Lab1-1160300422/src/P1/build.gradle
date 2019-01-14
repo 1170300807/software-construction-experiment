@@ -1,0 +1,10 @@
+apply plugin: 'java'
+apply plugin: 'application'
+mainClassName = 'P1.MagicSquare'
+sourceSets {
+   main {
+      java {
+         srcDir '.'
+      }
+   }
+}

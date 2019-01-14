@@ -1,0 +1,23 @@
+GraphType = "MovieGraph"
+GraphName = "MovieGraphTest"
+
+VertexType = "Director", "Actor", "Movie"
+Vertex = <"d1", "Director", <"20", "M">>
+Vertex = <"a1", "Actor", <"21", "F">>
+Vertex = <"m1", "Movie", <"2018", "China", "9.9">>
+Vertex = <"a2", "Actor", <"21", "F">>
+Vertex = <"a3", "Actor", <"-23", "M">>
+Vertex = <"a4", "Actor", <"24", "F">>
+Vertex = <"m2", "Movie", <"2017", "American", "8.8">>
+
+EdgeType = "MovieDirectorRelation", "MovieActorRelation", "SameMovieHyperEdge"
+Edge = <"dm1", "MovieDirectorRelation", "-1", "d1", "m1", "No">
+Edge = <"dm2", "MovieDirectorRelation", "-1", "d1", "m2", "No">
+Edge = <"m1a1", "MovieActorRelation", "100", "m1", "a1", "No">
+Edge = <"m1a2", "MovieActorRelation", "50", "m1", "a2", "No">
+Edge = <"m1a3", "MovieActorRelation", "25", "m1", "a3", "No">
+Edge = <"m2a2", "MovieActorRelation", "90", "m2", "a2", "No">
+Edge = <"m2a3", "MovieActorRelation", "60", "m2", "a3", "No">
+Edge = <"m2a4", "MovieActorRelation", "40", "m2", "a4", "No">
+HyperEdge = <"sa1", "SameMovieHyperEdge", {"a1", "a2", "a3"}>
+HyperEdge = <"sa2", "SameMovieHyperEdge", {"a2", "a3", "a4"}>

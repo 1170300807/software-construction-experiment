@@ -1,0 +1,21 @@
+apply plugin: 'java'
+apply plugin: 'application'
+mainClassName = 'twitter.Main'
+sourceSets {
+   main {
+      java {
+         srcDir '.'
+      }
+   }
+   test {
+      java {
+          srcDir '../../test/P4'
+       }
+   }     
+}
+
+dependencies {
+    dependencies { 
+        compile fileTree(dir:'../../lib',include:['*.jar'])      
+    }
+}

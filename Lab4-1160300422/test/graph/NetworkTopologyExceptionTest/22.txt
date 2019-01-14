@@ -1,0 +1,17 @@
+GraphType = "NetworkTopology"
+GraphName = "NetworkTopologyTest"
+
+VertexType = "Computer", "Router", "Server"
+Vertex = <"v1", "Computer", <"192.168.88.106">>
+Vertex = <"v2", "Server", <"192.168.199.1">>
+Vertex = <"v3", "Router", <"192.168.199.52">>
+Vertex = <"v4", "Router", <"192.168.199.9">>
+Vertex = <"v5", "Computer", <"192.168.199.99">>
+
+EdgeType = "NetworkConnection"
+Edge = <"e5", "NetworkConnection", "100", "v1", "v5", "No">
+Edge = <"e4", "NetworkConnection", "100", "v4", "v3", "No">
+Edge = <"e1", "NetworkConnection", "100", "v1", "v2", "No">
+Edge = <"e2", "NetworkConnection", "50", "v3", "v2", "No">
+Edge = <"e3", "NetworkConnection", "10", "v1", "v3", "No">
+Edge = <"e4", "NetworkConnection", "100", "v4", "v3", "No">
